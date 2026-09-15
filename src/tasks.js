@@ -132,7 +132,7 @@ export function initTasks(ctx) {
   // V3.5 routines. Live: the server's list (polled). Demo: session-only, fired by this tick.
   const routines = []; let rseq = 1, polling = false, railAgent = null, railExp = false;
   const RT_DEPTS = ['emails', 'fin', 'sales'];
-  const RT_NAMES = { emails: 'Emails', fin: 'Accounting', sales: 'Sales', marketing: 'Marketing', ops: 'Operations', delivery: 'Delivery' };
+  const RT_NAMES = { emails: 'Marketing', fin: 'Accounting', sales: 'Sales', marketing: 'Design', ops: 'Operations', delivery: 'Delivery' };
   const rtRefuse = k => `Routines come to ${RT_NAMES[k] || k} in a later release. This release: Emails, Accounting and Sales.`;
   const deptRoutines = k => routines.filter(r => r.dept === k);
   const agentRoutines = id => routines.filter(r => r.agent === id);
@@ -214,8 +214,11 @@ export function initTasks(ctx) {
     return t;
   }
 
-  /* ---------- seed a believable morning ---------- */
-  {
+  /* ---------- seed a believable morning ----------
+     Disabled for a clean, real-data-only start (Tre asked for it): the office now
+     boots genuinely empty and only ever shows tasks you actually added or the
+     server actually ran. Original demo-seeding kept below, permanently off. */
+  if (false) {
     const now = performance.now(), wall = Date.now();
     for (const a of AGENTS) {
       const r = R[a.id];
@@ -862,8 +865,10 @@ export function initTasks(ctx) {
       } else {
         const nx = agentTasks(id, 'next').sort((a, b) => a.addedAt - b.addedAt)[0];
         if (nx) { start(nx, now); r.nextBrainAt = null; }
-        else if (!r.nextBrainAt) r.nextBrainAt = now + 6000 + Math.random() * 16000;
-        else if (now > r.nextBrainAt) { r.nextBrainAt = null; brainSend(id); }
+        // clean-start: only invent ambient "brain" busywork in offline demo mode (no real server) —
+        // in LIVE mode idle agents just stay idle until you give them something real to do.
+        else if (!live && !r.nextBrainAt) r.nextBrainAt = now + 6000 + Math.random() * 16000;
+        else if (!live && now > r.nextBrainAt) { r.nextBrainAt = null; brainSend(id); }
       }
     }
     if (now - lastBadge > 400) { syncBadges(); lastBadge = now; }
