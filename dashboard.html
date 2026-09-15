@@ -1,0 +1,336 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Dashboard — Tre's Office</title>
+<style>
+  :root { color-scheme: light; }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; background: #f7f6f3; color: #1a1a1a; }
+  header { padding: 14px 16px; display: flex; align-items: center; justify-content: space-between; gap: 10px; border-bottom: 1px solid #e5e2db; flex-wrap: wrap; }
+  header h1 { font-size: 16px; margin: 0; letter-spacing: .02em; }
+  header a { color: #1a1a1a; text-decoration: none; font-size: 13px; border: 1px solid #ccc; padding: 6px 12px; border-radius: 6px; white-space: nowrap; }
+  header a:hover { background: #eee; }
+  nav.tabs { display: flex; gap: 6px; padding: 10px 16px 0; overflow-x: auto; }
+  nav.tabs button { border: none; background: none; padding: 8px 14px; font-size: 13px; cursor: pointer; border-radius: 8px 8px 0 0; color: #888; white-space: nowrap; }
+  nav.tabs button.active { background: #fff; color: #1a1a1a; font-weight: 600; border: 1px solid #e5e2db; border-bottom: none; }
+  main { max-width: 1000px; margin: 0 auto; padding: 16px 16px 60px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  @media (max-width: 760px) { .grid { grid-template-columns: 1fr; } main { padding: 12px 12px 50px; } .big { font-size: 26px; } }
+  .card { background: #fff; border: 1px solid #e5e2db; border-radius: 12px; padding: 16px 16px; margin-bottom: 14px; }
+  .card h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: #888; margin: 0 0 12px; }
+  .big { font-size: 32px; font-weight: 600; }
+  .row { display: flex; justify-content: space-between; padding: 6px 0; border-bottom: 1px solid #f0efe9; font-size: 14px; }
+  .row:last-child { border-bottom: none; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; display: inline-block; margin-right: 6px; }
+  .ok { background: #3aa76d; } .bad { background: #d97b4f; } .off { background: #ccc; }
+  .full { grid-column: 1 / -1; }
+  ul#todo { list-style: none; margin: 0; padding: 0; }
+  ul#todo li { display: flex; align-items: center; gap: 8px; padding: 6px 0; font-size: 14px; }
+  ul#todo li.done span { text-decoration: line-through; color: #999; }
+  #todoAdd { display: flex; gap: 8px; margin-top: 10px; }
+  #todoAdd input { flex: 1; padding: 8px 10px; border: 1px solid #ddd; border-radius: 6px; font-size: 14px; }
+  #todoAdd button, .btn { padding: 8px 14px; border: none; border-radius: 6px; background: #1a1a1a; color: #fff; font-size: 13px; cursor: pointer; }
+  .btn.ghost { background: none; border: 1px solid #ccc; color: #1a1a1a; }
+  .empty { color: #999; font-size: 13px; }
+  .approval { background: #fff8ec; border: 1px solid #f0d9a8; border-radius: 8px; padding: 10px 12px; margin-bottom: 8px; font-size: 13px; }
+  .done-item { background: #f3faf5; border: 1px solid #cdeada; border-radius: 8px; padding: 10px 12px; margin-bottom: 8px; font-size: 13px; }
+  .doing-item { background: #f2f6fb; border: 1px solid #cfe0f2; border-radius: 8px; padding: 10px 12px; margin-bottom: 8px; font-size: 13px; }
+  .pane { display: none; } .pane.active { display: block; }
+  .placeholder { border: 1px dashed #ddd; border-radius: 8px; padding: 12px; font-size: 13px; color: #999; }
+</style>
+</head>
+<body>
+<header>
+  <h1>📋 DASHBOARD — <span id="bizName">…</span></h1>
+  <div style="display:flex;gap:8px;">
+    <button id="restartBtn" onclick="restartOffice()" style="cursor:pointer;font:inherit;font-size:13px;border:1px solid #ccc;padding:6px 12px;border-radius:6px;background:#fff;">⟳ Restart office</button>
+    <a href="/">← Back to the office</a>
+  </div>
+</header>
+<nav class="tabs">
+  <button class="tab-btn active" data-tab="overview">Overview</button>
+  <button class="tab-btn" data-tab="social">Social &amp; Marketing</button>
+</nav>
+<main>
+
+  <div id="pane-overview" class="pane active">
+    <div class="grid">
+      <div class="card">
+        <h2>Today</h2>
+        <div class="big" id="dateBig">…</div>
+        <div id="clock" style="color:#888;font-size:13px;margin-top:4px;"></div>
+      </div>
+      <div class="card">
+        <h2>Connection</h2>
+        <div class="row"><span>Claude</span><span id="claudeStatus">…</span></div>
+        <div class="row"><span>Connectors</span><span id="mcpStatus">…</span></div>
+        <div class="row"><span>Plan usage</span><span id="usageStatus">see office top bar</span></div>
+      </div>
+    </div>
+
+    <div class="card full">
+      <h2>Todoist</h2>
+      <div id="todoistBox" class="empty">Not checked yet.</div>
+      <button class="btn ghost" onclick="syncTodoist()" style="margin-top:8px;">🔄 Check Todoist (asks an agent — uses a little Claude usage)</button>
+    </div>
+
+    <div class="card full">
+      <h2>Inbox — priority check</h2>
+      <div id="emailBox" class="empty">Not checked yet.</div>
+      <button class="btn ghost" onclick="syncEmail()" style="margin-top:8px;">🔄 Check inbox (asks an agent — uses a little Claude usage)</button>
+    </div>
+
+    <div class="card full">
+      <h2>Master inbox — paste a whole list of tasks</h2>
+      <textarea id="inboxBox" rows="5" placeholder="One task per line, e.g.&#10;Reply to the Kaur Dental email&#10;Draft next week's newsletter&#10;Chase the overdue invoice from Acme" style="width:100%;padding:10px;border:1px solid #ddd;border-radius:8px;font-family:inherit;font-size:14px;"></textarea>
+      <button class="btn" style="margin-top:8px;" onclick="previewInbox()">Split into tasks</button>
+      <div id="inboxPreview" style="margin-top:12px;"></div>
+    </div>
+
+    <div class="card full">
+      <h2>Calendar</h2>
+      <div class="placeholder">Not connected yet — connect Google Calendar to see today's meetings here.</div>
+    </div>
+
+    <div class="card full">
+      <h2>Cash &amp; revenue</h2>
+      <div class="placeholder">Not connected yet — connect your accounting tool (e.g. Xero) to see a real snapshot here.</div>
+    </div>
+
+    <div class="card full">
+      <h2>Waiting on your OK</h2>
+      <div id="approvals" class="empty">Loading…</div>
+    </div>
+
+    <div class="card full">
+      <h2>Being worked on right now</h2>
+      <div id="doingList" class="empty">Loading…</div>
+    </div>
+
+    <div class="card full">
+      <h2>Recently completed</h2>
+      <div id="doneList" class="empty">Loading…</div>
+    </div>
+
+    <div class="card full">
+      <h2>Task snapshot — all departments</h2>
+      <div id="deptGrid" style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;"></div>
+    </div>
+
+    <div class="card full">
+      <h2>My to-do list for today</h2>
+      <ul id="todo"></ul>
+      <div id="todoAdd">
+        <input id="todoInput" placeholder="Add something…" />
+        <button onclick="addTodo()">Add</button>
+      </div>
+      <div style="color:#999;font-size:12px;margin-top:8px;">Saved on this device only.</div>
+    </div>
+  </div>
+
+  <div id="pane-social" class="pane">
+    <div class="card full">
+      <h2>Social &amp; marketing connectors</h2>
+      <div class="row"><span>Meta Ads (Facebook/Instagram advertising)</span><span id="soc-meta">…</span></div>
+      <div class="row"><span>Instagram / Facebook (regular posting)</span><span id="soc-ig">…</span></div>
+      <div class="row"><span>YouTube</span><span id="soc-yt">…</span></div>
+      <div class="row"><span>Zapier (bridges thousands of other apps)</span><span id="soc-zap">…</span></div>
+      <div style="margin-top:10px;color:#999;font-size:12px;">Real follower/engagement/ad-spend numbers will appear here once each is connected — ask to have one set up any time.</div>
+    </div>
+  </div>
+
+</main>
+<script>
+const $ = s => document.querySelector(s);
+
+document.querySelectorAll('.tab-btn').forEach(b => b.addEventListener('click', () => {
+  document.querySelectorAll('.tab-btn').forEach(x => x.classList.remove('active'));
+  document.querySelectorAll('.pane').forEach(x => x.classList.remove('active'));
+  b.classList.add('active');
+  $('#pane-' + b.dataset.tab).classList.add('active');
+}));
+
+function renderClock() {
+  const d = new Date();
+  $('#dateBig').textContent = d.toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' });
+  $('#clock').textContent = d.toLocaleTimeString();
+}
+renderClock(); setInterval(renderClock, 1000);
+
+let MCP_LIST = [];
+async function loadHealth() {
+  const h = await fetch('/api/health').then(r => r.json());
+  $('#bizName').textContent = h.name || 'your office';
+  $('#claudeStatus').innerHTML = h.tools
+    ? '<span class="dot ok"></span>logged in'
+    : '<span class="dot bad"></span>not logged in';
+  const mcp = h.mcp || {};
+  const list = mcp.list || mcp.servers || [];
+  MCP_LIST = Array.isArray(list) ? list : [];
+  const connected = MCP_LIST.filter(s => s.status === 'connected').length;
+  const total = MCP_LIST.length || (mcp.total ?? '?');
+  $('#mcpStatus').textContent = `${connected} of ${total} connected`;
+  renderSocial();
+}
+
+function connectorState(needle) {
+  const s = MCP_LIST.find(s => (s.name || '').toLowerCase().includes(needle));
+  if (!s) return 'missing';
+  return s.status === 'connected' ? 'connected' : 'pending';
+}
+function renderSocial() {
+  const set = (id, needle) => {
+    const st = connectorState(needle);
+    $(id).innerHTML = st === 'connected' ? '<span class="dot ok"></span>connected'
+      : st === 'pending' ? '<span class="dot bad"></span>added, needs login'
+      : '<span class="dot off"></span>not connected';
+  };
+  set('#soc-meta', 'meta');
+  set('#soc-ig', 'instagram');
+  set('#soc-yt', 'youtube');
+  set('#soc-zap', 'zapier');
+}
+
+async function loadTasks() {
+  const tasks = await fetch('/api/tasks').then(r => r.json());
+  const depts = {};
+  for (const t of tasks) {
+    depts[t.dept] ??= { doing: 0, next: 0, waiting: 0, done: 0 };
+    depts[t.dept][t.state] = (depts[t.dept][t.state] || 0) + 1;
+  }
+  const grid = $('#deptGrid');
+  const keys = Object.keys(depts);
+  grid.innerHTML = keys.length ? keys.map(k => `
+    <div style="border:1px solid #eee;border-radius:8px;padding:10px;">
+      <div style="font-size:12px;color:#888;text-transform:uppercase;margin-bottom:6px;">${k}</div>
+      <div style="font-size:13px;">Doing ${depts[k].doing || 0} · Next ${depts[k].next || 0} · Done ${depts[k].done || 0}</div>
+    </div>`).join('') : '<div class="empty">No tasks yet — add one from the office.</div>';
+
+  const waiting = tasks.filter(t => t.state === 'waiting');
+  $('#approvals').innerHTML = waiting.length
+    ? waiting.map(t => `<div class="approval"><b>${t.title}</b> — ${t.dept}, waiting for your OK on the office page</div>`).join('')
+    : '<div class="empty">Nothing waiting — all caught up.</div>';
+
+  const doing = tasks.filter(t => t.state === 'doing');
+  $('#doingList').innerHTML = doing.length
+    ? doing.map(t => `<div class="doing-item"><b>${t.title}</b> — ${t.agent} · ${t.dept}</div>`).join('')
+    : '<div class="empty">Nothing in progress right now.</div>';
+
+  const done = tasks.filter(t => t.state === 'done').sort((a, b) => (b.doneAt || 0) - (a.doneAt || 0)).slice(0, 8);
+  $('#doneList').innerHTML = done.length
+    ? done.map(t => `<div class="done-item"><b>${t.title}</b> — ${t.agent} · ${t.dept}</div>`).join('')
+    : '<div class="empty">Nothing completed yet.</div>';
+}
+
+// ---- master inbox: paste many lines, guess a department each, let you fix it, then add all ----
+const DEPT_WORDS = {
+  emails: ['email', 'inbox', 'reply', 'mail'],
+  sales: ['lead', 'deal', 'prospect', 'quote', 'proposal', 'sales', 'crm', 'follow up', 'follow-up'],
+  marketing: ['content', 'post', 'ad ', 'ads', 'campaign', 'social', 'newsletter', 'brand', 'reel', 'instagram'],
+  ops: ['process', 'sop', 'internal', 'compliance', 'dashboard', 'report', 'legal'],
+  fin: ['invoice', 'payment', 'bill', 'expense', 'budget', 'cash', 'accounting', 'reconcile'],
+  delivery: ['client', 'project', 'deliver', 'handover', 'onboarding', 'onboard'],
+};
+function guessDept(line) {
+  const l = line.toLowerCase();
+  for (const [dept, words] of Object.entries(DEPT_WORDS)) if (words.some(w => l.includes(w))) return dept;
+  return 'ops';
+}
+const DEPT_LABELS = { emails: 'Emails', sales: 'Sales', marketing: 'Marketing', ops: 'Operations', fin: 'Finance', delivery: 'Delivery' };
+function previewInbox() {
+  const lines = $('#inboxBox').value.split('\n').map(s => s.trim()).filter(Boolean);
+  if (!lines.length) return;
+  $('#inboxPreview').innerHTML = lines.map((line, i) => `
+    <div style="display:flex;gap:8px;align-items:center;padding:6px 0;border-bottom:1px solid #f0efe9;font-size:13px;">
+      <select id="dept-${i}" style="padding:4px 6px;border-radius:6px;border:1px solid #ddd;">
+        ${Object.entries(DEPT_LABELS).map(([k, v]) => `<option value="${k}" ${k === guessDept(line) ? 'selected' : ''}>${v}</option>`).join('')}
+      </select>
+      <span style="flex:1;">${line}</span>
+    </div>`).join('') + `<button class="btn" style="margin-top:10px;" onclick="submitInbox(${JSON.stringify(lines).replace(/"/g, '&quot;')})">Add all ${lines.length} to the office</button>`;
+}
+async function submitInbox(lines) {
+  $('#inboxPreview').insertAdjacentHTML('beforeend', '<div style="margin-top:8px;color:#888;">Adding…</div>');
+  for (let i = 0; i < lines.length; i++) {
+    const dept = $('#dept-' + i).value;
+    await fetch('/api/tasks', { method: 'POST', headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ dept, text: lines[i] }) });
+  }
+  $('#inboxBox').value = '';
+  $('#inboxPreview').innerHTML = `<div style="color:#3aa76d;">Added — check the office or the task snapshot below.</div>`;
+  loadTasks();
+}
+
+// ---- opt-in agent checks (each click = one real, small Claude task) ----
+async function askDept(dept, text) {
+  const r = await fetch('/api/tasks', { method: 'POST', headers: { 'content-type': 'application/json' },
+    body: JSON.stringify({ dept, text }) }).then(r => r.json());
+  if (r.error) return { error: r.error };
+  // poll for completion, up to ~45s
+  for (let i = 0; i < 15; i++) {
+    await new Promise(res => setTimeout(res, 3000));
+    const list = await fetch('/api/tasks').then(r => r.json());
+    const t = list.find(x => x.id === r.id);
+    if (t && t.state === 'done') return t;
+  }
+  return { error: 'Still working — check the office page for the result.' };
+}
+async function syncTodoist() {
+  $('#todoistBox').textContent = 'Asking an agent to check Todoist…';
+  const t = await askDept('sales', 'Check Todoist and list my open tasks for today, briefly');
+  $('#todoistBox').innerHTML = t.error ? `<span class="empty">${t.error}</span>` : `<div style="white-space:pre-wrap;font-size:13px;">${t.result}</div>`;
+}
+async function syncEmail() {
+  $('#emailBox').textContent = 'Asking an agent to check your inbox…';
+  const t = await askDept('emails', 'Check my inbox and list anything urgent or needing a reply today, briefly');
+  $('#emailBox').innerHTML = t.error ? `<span class="empty">${t.error}</span>` : `<div style="white-space:pre-wrap;font-size:13px;">${t.result}</div>`;
+}
+
+// ---- simple personal to-do list (this browser only) ----
+const KEY = 'tre-dashboard-todos';
+function getTodos() { try { return JSON.parse(localStorage.getItem(KEY)) || []; } catch { return []; } }
+function setTodos(v) { try { localStorage.setItem(KEY, JSON.stringify(v)); } catch {} }
+function renderTodos() {
+  const items = getTodos();
+  const ul = $('#todo');
+  ul.innerHTML = items.length ? items.map((t, i) => `
+    <li class="${t.done ? 'done' : ''}">
+      <input type="checkbox" ${t.done ? 'checked' : ''} onchange="toggleTodo(${i})">
+      <span>${t.text}</span>
+      <button onclick="delTodo(${i})" style="margin-left:auto;border:none;background:none;color:#bbb;cursor:pointer;">✕</button>
+    </li>`).join('') : '<div class="empty">Nothing on your list yet.</div>';
+}
+function addTodo() {
+  const inp = $('#todoInput');
+  if (!inp.value.trim()) return;
+  const items = getTodos(); items.push({ text: inp.value.trim(), done: false });
+  setTodos(items); inp.value = ''; renderTodos();
+}
+function toggleTodo(i) { const items = getTodos(); items[i].done = !items[i].done; setTodos(items); renderTodos(); }
+function delTodo(i) { const items = getTodos(); items.splice(i, 1); setTodos(items); renderTodos(); }
+$('#todoInput').addEventListener('keydown', e => { if (e.key === 'Enter') addTodo(); });
+renderTodos();
+
+loadHealth();
+loadTasks();
+setInterval(loadTasks, 8000); // free — just reading local task file, no Claude usage
+
+async function restartOffice() {
+  const btn = $('#restartBtn');
+  if (!confirm('Restart the office now? Takes a few seconds, no data is lost.')) return;
+  btn.disabled = true; btn.textContent = 'Restarting…';
+  try { await fetch('/api/restart', { method: 'POST' }); } catch {}
+  let tries = 0;
+  const check = setInterval(async () => {
+    tries++;
+    try {
+      await fetch('/api/health', { cache: 'no-store' });
+      clearInterval(check); btn.disabled = false; btn.textContent = '⟳ Restart office';
+      loadHealth(); loadTasks();
+    } catch { if (tries > 30) { clearInterval(check); btn.textContent = 'Still restarting…'; } }
+  }, 1000);
+}
+</script>
+</body>
+</html>

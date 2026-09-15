@@ -1237,7 +1237,9 @@ function tickSim(now, dt) {
     nextApprovalAt = now + 50000 + Math.random() * 40000;
   }
   // agent events drive everything — feed, chat streams, billboard metrics (nothing is static)
-  if (now > nextMetricAt) {
+  // clean-start: same live-mode gate as the approval theatre above — in LIVE mode these stay
+  // real (only your actual tasks move the numbers), same as tasks.js already does for the board.
+  if (now > nextMetricAt && !(tasks && tasks.isLive())) {
     fireAgentEvent();
     nextMetricAt = now + 2600 + Math.random() * 3800;
   }
@@ -1398,3 +1400,17 @@ function loop(now) {
   requestAnimationFrame(loop);
 }
 requestAnimationFrame(loop);
+
+// one-click restart, called from the topbar button (Tre asked for it)
+window.restartOfficeFromTopbar = async function restartOfficeFromTopbar() {
+  const btn = document.getElementById('restartBtn');
+  if (!confirm('Restart the office now? Takes a few seconds, no data is lost.')) return;
+  btn.disabled = true; btn.textContent = '⟳ RESTARTING…';
+  try { await fetch('/api/restart', { method: 'POST' }); } catch {}
+  let tries = 0;
+  const check = setInterval(async () => {
+    tries++;
+    try { await fetch('/api/health', { cache: 'no-store' }); clearInterval(check); location.reload(); }
+    catch { if (tries > 30) { clearInterval(check); btn.textContent = 'STILL RESTARTING…'; } }
+  }, 1000);
+};

@@ -15,13 +15,14 @@ export const ri = (a,b) => a + Math.floor(Math.random()*(b-a+1));
 export const person = () => rnd(P.first)+' '+rnd(P.last);
 export const money = n => '$'+n.toLocaleString('en-NZ');
 /* ---------- KPIs ---------- */
+// Zeroed for a clean, real-data-only start (Tre asked for it) — these used to be fake demo starting numbers.
 export const KPIS = [
-  { id:'leads',     label:'Leads Enriched',  val:47,   fmt:v=>v },
-  { id:'callhrs',   label:'Call Hrs Routed', val:9.5,  fmt:v=>v.toFixed(1)+'h' },
-  { id:'tickets',   label:'Tickets Resolved',val:31,   fmt:v=>v },
-  { id:'adspend',   label:'Ad Spend Today',  val:684,  fmt:v=>money(Math.round(v)) },
-  { id:'proposals', label:'Proposals Sent',  val:6,    fmt:v=>v },
-  { id:'invoices',  label:'Invoices Issued', val:23,  fmt:v=>v },
+  { id:'leads',     label:'Leads Enriched',  val:0,   fmt:v=>v },
+  { id:'callhrs',   label:'Call Hrs Routed', val:0,  fmt:v=>v.toFixed(1)+'h' },
+  { id:'tickets',   label:'Tickets Resolved',val:0,   fmt:v=>v },
+  { id:'adspend',   label:'Ad Spend Today',  val:0,  fmt:v=>money(Math.round(v)) },
+  { id:'proposals', label:'Proposals Sent',  val:0,    fmt:v=>v },
+  { id:'invoices',  label:'Invoices Issued', val:0,  fmt:v=>v },
 ];
 export const V1 = [
 /* ============ (Customer Support retired 5 Sep 2026 — see EMAILS below) ============ */
@@ -788,7 +789,8 @@ export const V1 = [
   chips:['What did you deliver?','Status of the mockup?','How busy are you?'] },
 
 ];
-export const STATS = { emailsSent:128, drafts:41, reports:9, projects:12, onTrack:11, chats:11, insMkt:3, insOps:5, cpa:41.0, spencer:14, arwin:31, jack:16, managers:5, autoOnb:17, billsPaid:14 };
+// Zeroed for a clean, real-data-only start (Tre asked for it) — these used to be fake demo starting numbers.
+export const STATS = { emailsSent:0, drafts:0, reports:0, projects:0, onTrack:0, chats:0, insMkt:0, insOps:0, cpa:0, spencer:0, arwin:0, jack:0, managers:0, autoOnb:0, billsPaid:0 };
 export const FILE_GEN = {
   pros: ()=>({ icon:'⛏', name:'outbound-batch-'+clockStr().replace(':','')+'.csv', meta:'verified prospects · handed to the Sales Lead · click to view',
     content:`company,city,headcount,contact,title,mobile,icp_score\n${rnd(P.co)},${rnd(P.city)},${ri(8,60)},${person()},${rnd(['Head of Sales','Sales Manager','GM','Founder'])},verified ✓,${ri(70,94)}\n${rnd(P.co)},${rnd(P.city)},${ri(8,60)},${person()},${rnd(['Sales Manager','Director','Founder'])},verified ✓,${ri(70,94)}\n${rnd(P.co)},${rnd(P.city)},${ri(8,60)},${person()},${rnd(['GM','Head of Sales'])},verified ✓,${ri(70,94)}\n…${ri(24,38)} rows · dupes stripped · existing customers excluded` }),

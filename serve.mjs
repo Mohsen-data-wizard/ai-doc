@@ -352,12 +352,35 @@ const discovering = mcp.discover().then(l => { console.log(`  connectors: ${l.fi
 const agentsOut = () => { const setup = setupMap(); return AGENTS.map(a => ({ id: a.id, name: a.name, role: a.role, does: a.does, tools: a.tools, brief: a.brief || '', model: a.model || '', effort: a.effort || '', skills: skills.names(a), lessons: learn.count(BRAIN, a.id), department: a.department, lead: a.lead,
   interviewer: leadOf(a.department).id === a.id, setUp: setup[a.department] })); };
 const server = http.createServer(async (req, res) => {
+  // simple login, on when cfg.auth.user/pass are set (office.config.local.json) — protects the
+  // office once it's reachable beyond just this machine (phone on the same wifi, etc.)
+  if (cfg.auth && cfg.auth.user) {
+    const hdr = req.headers.authorization || '';
+    const [scheme, b64] = hdr.split(' ');
+    const given = scheme === 'Basic' && b64 ? Buffer.from(b64, 'base64').toString('utf8') : '';
+    if (given !== `${cfg.auth.user}:${cfg.auth.pass}`) {
+      res.writeHead(401, { 'WWW-Authenticate': 'Basic realm="Agents Office"', 'content-type': 'text/plain' });
+      return res.end('Login required.');
+    }
+  }
   const url = new URL(req.url, 'http://x');
   try {
+    if (req.method === 'POST' && url.pathname === '/api/restart') { // one-click restart, for the dashboard/office button
+      json(res, 200, { ok: true, message: 'Restarting…' });
+      setTimeout(() => {
+        spawn('npm', ['start'], { cwd: ROOT, detached: true, stdio: 'ignore' }).unref();
+        process.exit(0);
+      }, 300);
+      return;
+    }
     if (req.method === 'GET' && (url.pathname === '/' || url.pathname === '/command-centre-v2.html' || url.pathname === '/dark')) {
       res.writeHead(200, { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'no-store' });
       const page = fs.readFileSync(HTML, 'utf8');
       return res.end(url.pathname === '/dark' ? page.replace('<body>', '<body class="dark">') : page); // /dark: the same file, opened in dark mode
+    }
+    if (req.method === 'GET' && url.pathname === '/dashboard') { // Tre's daily snapshot page — real data only, no theatre
+      res.writeHead(200, { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'no-store' });
+      return res.end(fs.readFileSync(new URL('./dashboard.html', import.meta.url), 'utf8'));
     }
     if (url.pathname === '/api/health') return json(res, 200, { ok: true, version, backend, model: cfg.model, modelName: modelName(cfg.model), models: MODEL_KEYS, effort: cfg.effort || '', efforts: EFFORT_KEYS, name: cfg.name, brain: BRAIN, notes: graph.notes, depts: DEPT_KEYS,
       agents: agentsOut(), setup: setupMap(), routines: (l => ({ count: l.length, paused: l.filter(r => r.paused).length, depts: routines.ALLOWED }))(loadRoutines()), roster: { customised: roster.customised, briefed: roster.briefed, files: roster.files, problems: roster.problems }, skills: (({ count, shipped, brain, problems }) => ({ count, shipped, brain, problems }))(skills.summary()), tools: backend === 'claude-cli', mcp: mcp.summary() });
