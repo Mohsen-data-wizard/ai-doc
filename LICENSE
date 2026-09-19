@@ -1,3 +1,21 @@
+# Agents Office — licence
+
+Agents Office is a product of Sahni.ai (https://sahni.ai), made by AJ Sahni. It is licensed to you under the PolyForm Noncommercial License 1.0.0 reproduced below, together with the Required Notices and the additional terms from the licensor in this file. The licence text asks that these notices travel with every copy.
+
+Required Notice: Copyright 2026 Sahni.ai, New Zealand (https://sahni.ai). Agents Office is a Sahni.ai product.
+Required Notice: Agents Office — https://github.com/ajsahni/agents-office — PolyForm Noncommercial 1.0.0 with the Sahni.ai additional terms below.
+
+## Additional terms from the licensor (Sahni.ai)
+
+These terms apply on top of the PolyForm Noncommercial License 1.0.0. Where they add a condition, that condition is part of your licence; where they restrict something, the restriction applies even if the licence below would otherwise allow it.
+
+1. **Name and mark.** "Agents Office", "Sahni.ai" and the `sahni.ai_` wordmark are Sahni.ai's names and marks. This licence gives you no right to use them except as these terms require. You may not remove, hide or alter the Sahni.ai mark or the licence line the software shows on screen, or the Required Notices in this file.
+2. **No renaming or rebranding.** You may not rename Agents Office, present it under another name or brand, or present it as your own work or as your company's product. A copy you have changed must keep the name Agents Office, keep the notices and the mark, and say clearly that it has been changed and by whom.
+3. **Not part of another product or system.** You may not adapt Agents Office to drive, display or front another agent system, workforce, platform or product, or bundle it with one, whether it is yours or a third party's. Using the connectors you have set up in Claude Code, as the software is designed to, is not affected.
+4. **Permission.** Anything these terms do not allow needs written permission from Sahni.ai: aj@sahni.ai.
+
+---
+
 # PolyForm Noncommercial License 1.0.0
 
 <https://polyformproject.org/licenses/noncommercial/1.0.0>
