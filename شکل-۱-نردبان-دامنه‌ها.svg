@@ -1,0 +1,5023 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1068.405031pt" height="494.4528pt" viewBox="0 0 1068.405031 494.4528" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-20T07:16:25.676095</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 494.4528 
+L 1068.405031 494.4528 
+L 1068.405031 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 170.133031 417.456 
+L 779.005759 417.456 
+L 779.005759 7.2 
+L 170.133031 7.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 200.949051 417.456 
+L 200.949051 7.2 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #b9c4ca; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m938dbaa27f" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m938dbaa27f" x="200.949051" y="417.456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- ۰/۱ -->
+      <g transform="translate(195.897098 431.206) scale(0.09 -0.09)">
+       <defs>
+        <path id="Vazirmatn-Regular-6f0" d="M 428 1494 
+Q 428 1750 551 1959 
+Q 675 2169 884 2292 
+Q 1094 2416 1350 2416 
+Q 1606 2416 1815 2292 
+Q 2025 2169 2148 1959 
+Q 2272 1750 2272 1494 
+Q 2272 1238 2148 1028 
+Q 2025 819 1815 695 
+Q 1606 572 1350 572 
+Q 1094 572 884 695 
+Q 675 819 551 1028 
+Q 428 1238 428 1494 
+z
+M 906 1494 
+Q 906 1309 1036 1179 
+Q 1166 1050 1350 1050 
+Q 1534 1050 1664 1179 
+Q 1794 1309 1794 1494 
+Q 1794 1678 1664 1808 
+Q 1534 1938 1350 1938 
+Q 1166 1938 1036 1808 
+Q 906 1678 906 1494 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-2f" d="M 553 -391 
+L 56 -391 
+L 1956 4550 
+L 2450 4550 
+L 553 -391 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-6f1" d="M 1366 0 
+L 828 0 
+L 828 709 
+Q 828 1756 720 2562 
+Q 613 3369 306 4000 
+L 800 4178 
+Q 1131 3444 1248 2592 
+Q 1366 1741 1366 700 
+L 1366 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-6f0"/>
+       <use xlink:href="#Vazirmatn-Regular-2f" transform="translate(42.1875 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(83.398438 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 289.810447 417.456 
+L 289.810447 7.2 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #b9c4ca; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m938dbaa27f" x="289.810447" y="417.456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- ۱ -->
+      <g transform="translate(288.511775 431.206) scale(0.09 -0.09)">
+       <use xlink:href="#Vazirmatn-Regular-6f1"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 378.671843 417.456 
+L 378.671843 7.2 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #b9c4ca; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m938dbaa27f" x="378.671843" y="417.456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- ۱۰ -->
+      <g transform="translate(375.474734 431.206) scale(0.09 -0.09)">
+       <use xlink:href="#Vazirmatn-Regular-6f1"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(28.857422 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 467.533239 417.456 
+L 467.533239 7.2 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #b9c4ca; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m938dbaa27f" x="467.533239" y="417.456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- ۱۰۰ -->
+      <g transform="translate(462.437692 431.206) scale(0.09 -0.09)">
+       <use xlink:href="#Vazirmatn-Regular-6f1"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(28.857422 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(71.044922 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 556.394635 417.456 
+L 556.394635 7.2 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #b9c4ca; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m938dbaa27f" x="556.394635" y="417.456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- ۱٬۰۰۰ -->
+      <g transform="translate(548.229244 431.206) scale(0.09 -0.09)">
+       <defs>
+        <path id="Vazirmatn-Regular-66c" d="M 584 100 
+L 584 634 
+L 1091 634 
+L 1091 169 
+Q 1091 -75 1000 -304 
+Q 909 -534 770 -721 
+Q 631 -909 491 -1025 
+L 244 -819 
+Q 394 -613 489 -391 
+Q 584 -169 584 100 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-6f1"/>
+       <use xlink:href="#Vazirmatn-Regular-66c" transform="translate(28.857422 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(54.882812 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(97.070312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(139.257812 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 645.256031 417.456 
+L 645.256031 7.2 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #b9c4ca; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m938dbaa27f" x="645.256031" y="417.456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- ۱۰٬۰۰۰ -->
+      <g transform="translate(635.192202 431.206) scale(0.09 -0.09)">
+       <use xlink:href="#Vazirmatn-Regular-6f1"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(28.857422 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-66c" transform="translate(71.044922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(97.070312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(139.257812 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(181.445312 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 734.117426 417.456 
+L 734.117426 7.2 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 0.7,1.155; stroke-dashoffset: 0; stroke: #b9c4ca; stroke-width: 0.7"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m938dbaa27f" x="734.117426" y="417.456" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- ۱۰۰٬۰۰۰ -->
+      <g transform="translate(722.155161 431.206) scale(0.09 -0.09)">
+       <use xlink:href="#Vazirmatn-Regular-6f1"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(28.857422 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(71.044922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-66c" transform="translate(113.232422 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(139.257812 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(181.445312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(223.632812 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_8">
+     <!-- ﯽﻤﺘﯾﺭﺎﮕﻟ ﺱﺎﯿﻘﻣ — (ﻥﺎﻣﻮﺗ ﺩﺭﺎﯿﻠﯿﻣ ﺭﺍﺰﻫ = ﺖﻤﻫ) ﺵﺯﺭﺍ -->
+     <g transform="translate(373.152895 447.735125) scale(0.096 -0.096)">
+      <defs>
+       <path id="Vazirmatn-Regular-fbfd" d="M 2153 -1609 
+Q 1478 -1609 1073 -1362 
+Q 669 -1116 489 -705 
+Q 309 -294 309 197 
+Q 309 409 342 687 
+Q 375 966 494 1322 
+L 991 1138 
+Q 900 825 873 584 
+Q 847 344 847 178 
+Q 847 -159 965 -437 
+Q 1084 -716 1370 -881 
+Q 1656 -1047 2153 -1047 
+Q 2622 -1047 2958 -931 
+Q 3294 -816 3473 -656 
+Q 3653 -497 3653 -366 
+Q 3653 -216 3523 -109 
+Q 3394 -3 3103 -3 
+L 2641 -3 
+Q 2578 -3 2550 51 
+Q 2522 106 2497 194 
+L 2413 494 
+Q 2409 519 2425 542 
+Q 2441 566 2481 566 
+L 4216 566 
+L 4216 -3 
+L 4088 -3 
+Q 4134 -97 4148 -181 
+Q 4163 -266 4163 -356 
+Q 4163 -563 4042 -783 
+Q 3922 -1003 3673 -1190 
+Q 3425 -1378 3047 -1493 
+Q 2669 -1609 2153 -1609 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fee4" d="M 75 0 
+L -63 0 
+L -63 569 
+L 59 569 
+Q 269 569 412 689 
+Q 556 809 668 1000 
+Q 781 1191 892 1405 
+Q 1003 1619 1140 1809 
+Q 1278 2000 1473 2120 
+Q 1669 2241 1956 2241 
+Q 2447 2241 2719 1942 
+Q 2991 1644 3084 1200 
+Q 3147 894 3298 731 
+Q 3450 569 3650 569 
+L 3731 569 
+L 3731 0 
+L 3647 0 
+Q 3447 0 3256 83 
+Q 3066 166 2947 347 
+Q 2816 156 2622 42 
+Q 2428 -72 2119 -72 
+Q 1806 -72 1542 64 
+Q 1278 200 994 475 
+Q 791 247 603 123 
+Q 416 0 75 0 
+z
+M 1969 1688 
+Q 1813 1688 1684 1583 
+Q 1556 1478 1453 1312 
+Q 1350 1147 1269 969 
+Q 1372 863 1475 778 
+Q 1578 694 1675 634 
+Q 1925 481 2113 481 
+Q 2575 481 2575 947 
+Q 2575 1272 2414 1480 
+Q 2253 1688 1969 1688 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fe98" d="M 1313 3381 
+L 1750 2947 
+L 1313 2506 
+L 878 2947 
+L 1313 3381 
+z
+M 275 3381 
+L 713 2947 
+L 275 2506 
+L -159 2947 
+L 275 3381 
+z
+M -63 569 
+L 375 569 
+Q 772 569 942 747 
+Q 1113 925 1113 1294 
+Q 1113 1444 1105 1578 
+Q 1097 1713 1084 1847 
+L 1606 1909 
+L 1656 1178 
+Q 1694 569 2291 569 
+L 2356 569 
+L 2356 0 
+L 2284 0 
+Q 1938 0 1730 125 
+Q 1522 250 1394 478 
+Q 1225 231 950 115 
+Q 675 0 375 0 
+L -63 0 
+L -63 569 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fbfe" d="M -69 569 
+L 609 569 
+Q 922 569 1033 750 
+Q 1144 931 1144 1209 
+Q 1144 1413 1106 1644 
+Q 1069 1875 1025 2109 
+L 1569 2247 
+Q 1622 1997 1653 1756 
+Q 1684 1516 1684 1297 
+Q 1684 922 1581 628 
+Q 1478 334 1243 167 
+Q 1009 0 616 0 
+L -69 0 
+L -69 569 
+z
+M 1059 -497 
+L 1497 -931 
+L 1059 -1372 
+L 625 -931 
+L 1059 -497 
+z
+M 22 -497 
+L 459 -931 
+L 22 -1372 
+L -413 -931 
+L 22 -497 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fead" d="M 147 -1681 
+L -38 -1184 
+Q 725 -1019 1037 -605 
+Q 1350 -191 1350 375 
+Q 1350 641 1292 933 
+Q 1234 1225 1131 1528 
+L 1650 1703 
+Q 1875 1063 1875 469 
+Q 1875 -53 1692 -498 
+Q 1509 -944 1126 -1255 
+Q 744 -1566 147 -1681 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fe8e" d="M 478 4303 
+L 1006 4303 
+L 1006 1316 
+Q 1006 875 1168 722 
+Q 1331 569 1659 569 
+L 1738 569 
+L 1738 0 
+L 1659 0 
+Q 1063 0 770 317 
+Q 478 634 478 1319 
+L 478 4303 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fb95" d="M 258 3806 
+L 258 4150 
+L 2633 5112 
+L 2633 4768 
+L 258 3806 
+z
+M 688 3031 
+Q 1044 2781 1370 2536 
+Q 1697 2291 1959 2005 
+Q 2222 1719 2375 1341 
+Q 2541 938 2725 753 
+Q 2909 569 3244 569 
+L 3331 569 
+L 3331 0 
+L 3244 0 
+Q 2897 0 2655 134 
+Q 2413 269 2222 563 
+Q 2097 378 1917 253 
+Q 1738 128 1448 64 
+Q 1159 0 700 0 
+L -63 0 
+L -63 569 
+L 697 569 
+Q 1303 569 1565 676 
+Q 1828 784 1828 1106 
+Q 1828 1313 1683 1509 
+Q 1538 1706 1308 1898 
+Q 1078 2091 815 2277 
+Q 553 2463 322 2644 
+Q 222 2725 169 2834 
+Q 116 2944 116 3056 
+Q 116 3184 186 3296 
+Q 256 3409 406 3469 
+L 2653 4381 
+L 2653 3828 
+L 688 3031 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fedf" d="M -63 569 
+L 200 569 
+Q 575 569 706 781 
+Q 838 994 838 1313 
+L 838 4303 
+L 1366 4303 
+L 1366 1316 
+Q 1366 666 1084 333 
+Q 803 0 197 0 
+L -63 0 
+L -63 569 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-20" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-feb1" d="M 4631 0 
+Q 4422 0 4272 51 
+Q 4122 103 4022 178 
+Q 4019 -344 3822 -748 
+Q 3625 -1153 3214 -1381 
+Q 2803 -1609 2153 -1609 
+Q 1478 -1609 1073 -1362 
+Q 669 -1116 489 -705 
+Q 309 -294 309 197 
+Q 309 528 378 876 
+Q 447 1225 566 1556 
+L 1063 1356 
+Q 972 1069 909 766 
+Q 847 463 847 178 
+Q 847 -159 967 -437 
+Q 1088 -716 1372 -881 
+Q 1656 -1047 2153 -1047 
+Q 2675 -1047 2961 -876 
+Q 3247 -706 3361 -429 
+Q 3475 -153 3475 163 
+Q 3475 534 3375 896 
+Q 3275 1259 3188 1491 
+L 3722 1706 
+L 3909 1116 
+Q 3997 844 4172 706 
+Q 4347 569 4638 569 
+Q 4969 569 5087 747 
+Q 5206 925 5206 1259 
+Q 5206 1341 5198 1453 
+Q 5191 1566 5175 1763 
+L 5697 1828 
+L 5747 1175 
+Q 5763 922 5881 745 
+Q 6000 569 6266 569 
+Q 6525 569 6622 762 
+Q 6719 956 6719 1216 
+Q 6719 1450 6673 1687 
+Q 6628 1925 6594 2072 
+L 7128 2216 
+Q 7184 2006 7218 1770 
+Q 7253 1534 7253 1300 
+Q 7253 963 7159 666 
+Q 7066 369 6852 186 
+Q 6638 3 6269 0 
+Q 5969 0 5784 125 
+Q 5600 250 5484 478 
+Q 5309 225 5095 112 
+Q 4881 0 4631 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fbff" d="M -69 569 
+L 403 569 
+Q 800 569 970 747 
+Q 1141 925 1141 1294 
+Q 1141 1444 1133 1578 
+Q 1125 1713 1113 1847 
+L 1634 1909 
+L 1684 1178 
+Q 1722 569 2319 569 
+L 2384 569 
+L 2384 0 
+L 2313 0 
+Q 1966 0 1758 125 
+Q 1550 250 1422 478 
+Q 1253 231 978 115 
+Q 703 0 403 0 
+L -69 0 
+L -69 569 
+z
+M 1059 -497 
+L 1497 -931 
+L 1059 -1372 
+L 625 -931 
+L 1059 -497 
+z
+M 22 -497 
+L 459 -931 
+L 22 -1372 
+L -413 -931 
+L 22 -497 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fed8" d="M 2194 3953 
+L 2631 3519 
+L 2194 3078 
+L 1760 3519 
+L 2194 3953 
+z
+M 1156 3953 
+L 1594 3519 
+L 1156 3078 
+L 722 3519 
+L 1156 3953 
+z
+M 2794 1472 
+Q 2794 1225 2684 1014 
+Q 2575 803 2384 581 
+Q 2563 572 2700 570 
+Q 2838 569 2944 569 
+L 3247 569 
+L 3247 0 
+L 2953 0 
+Q 2834 0 2626 20 
+Q 2419 41 2170 91 
+Q 1922 141 1681 225 
+Q 1441 138 1187 89 
+Q 934 41 718 20 
+Q 503 0 375 0 
+L -63 0 
+L -63 569 
+L 375 569 
+Q 506 569 648 570 
+Q 791 572 994 584 
+Q 806 803 700 1018 
+Q 594 1234 594 1478 
+Q 594 1672 684 1869 
+Q 775 2066 928 2234 
+Q 1081 2403 1278 2504 
+Q 1475 2606 1684 2606 
+Q 1903 2606 2103 2504 
+Q 2303 2403 2458 2236 
+Q 2613 2069 2703 1869 
+Q 2794 1669 2794 1472 
+z
+M 1684 2053 
+Q 1566 2053 1436 1964 
+Q 1306 1875 1217 1740 
+Q 1128 1606 1128 1466 
+Q 1128 1322 1212 1172 
+Q 1297 1022 1426 897 
+Q 1556 772 1691 703 
+Q 1928 803 2095 1026 
+Q 2263 1250 2263 1472 
+Q 2263 1603 2170 1737 
+Q 2078 1872 1943 1962 
+Q 1809 2053 1684 2053 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fee3" d="M 2119 -72 
+Q 1806 -72 1542 64 
+Q 1278 200 994 475 
+Q 791 247 603 123 
+Q 416 0 75 0 
+L -63 0 
+L -63 569 
+L 59 569 
+Q 269 569 412 689 
+Q 556 809 668 1000 
+Q 781 1191 892 1405 
+Q 1003 1619 1140 1809 
+Q 1278 2000 1473 2120 
+Q 1669 2241 1956 2241 
+Q 2303 2241 2561 2073 
+Q 2819 1906 2961 1625 
+Q 3103 1344 3103 997 
+Q 3103 488 2845 208 
+Q 2588 -72 2119 -72 
+z
+M 1969 1688 
+Q 1813 1688 1684 1583 
+Q 1556 1478 1453 1312 
+Q 1350 1147 1269 969 
+Q 1456 772 1656 647 
+Q 1913 481 2113 481 
+Q 2575 481 2575 947 
+Q 2575 1272 2414 1480 
+Q 2253 1688 1969 1688 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-2014" d="M 4563 1384 
+L 438 1384 
+L 438 1856 
+L 4563 1856 
+L 4563 1384 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-28" d="M 975 1847 
+Q 975 1259 1100 695 
+Q 1225 131 1467 -328 
+Q 1709 -788 2066 -1059 
+L 1947 -1441 
+Q 1600 -1253 1319 -918 
+Q 1038 -584 836 -145 
+Q 634 294 525 803 
+Q 416 1313 416 1847 
+Q 416 2381 525 2890 
+Q 634 3400 836 3839 
+Q 1038 4278 1319 4612 
+Q 1600 4947 1947 5134 
+L 2066 4753 
+Q 1709 4481 1467 4022 
+Q 1225 3563 1100 2998 
+Q 975 2434 975 1847 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fee5" d="M 2116 2628 
+L 2569 2175 
+L 2116 1722 
+L 1663 2175 
+L 2116 2628 
+z
+M 2153 -819 
+Q 2675 -819 2961 -648 
+Q 3247 -478 3361 -201 
+Q 3475 75 3475 391 
+Q 3475 763 3375 1125 
+Q 3275 1488 3188 1719 
+L 3722 1934 
+Q 3869 1531 3945 1151 
+Q 4022 772 4022 428 
+Q 4022 -100 3826 -509 
+Q 3631 -919 3218 -1150 
+Q 2806 -1381 2153 -1381 
+Q 1478 -1381 1073 -1134 
+Q 669 -888 489 -477 
+Q 309 -66 309 425 
+Q 309 756 378 1104 
+Q 447 1453 566 1784 
+L 1063 1584 
+Q 972 1297 909 994 
+Q 847 691 847 406 
+Q 847 69 967 -209 
+Q 1088 -488 1372 -653 
+Q 1656 -819 2153 -819 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-feee" d="M 1363 2284 
+Q 1850 2284 2184 1848 
+Q 2519 1413 2531 569 
+L 2909 569 
+L 2909 0 
+L 2481 0 
+Q 2413 -359 2208 -695 
+Q 2003 -1031 1600 -1289 
+Q 1197 -1547 531 -1675 
+L 347 -1178 
+Q 1763 -906 1988 0 
+L 1494 0 
+Q 309 0 309 959 
+Q 309 1266 432 1572 
+Q 556 1878 792 2081 
+Q 1028 2284 1363 2284 
+z
+M 1463 569 
+L 2016 569 
+Q 1978 1172 1817 1447 
+Q 1656 1722 1353 1722 
+Q 1153 1722 1039 1594 
+Q 925 1466 879 1292 
+Q 834 1119 834 978 
+Q 834 759 982 664 
+Q 1131 569 1463 569 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fe97" d="M 1313 3669 
+L 1750 3234 
+L 1313 2794 
+L 878 3234 
+L 1313 3669 
+z
+M 275 3669 
+L 713 3234 
+L 275 2794 
+L -159 3234 
+L 275 3669 
+z
+M -63 569 
+L 578 569 
+Q 891 569 1002 750 
+Q 1113 931 1113 1209 
+Q 1113 1413 1075 1644 
+Q 1038 1875 994 2109 
+L 1538 2247 
+Q 1591 1997 1622 1756 
+Q 1653 1516 1653 1297 
+Q 1653 922 1550 628 
+Q 1447 334 1212 167 
+Q 978 0 584 0 
+L -63 0 
+L -63 569 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fea9" d="M 1019 563 
+Q 2219 563 2219 1184 
+Q 2219 1478 1919 1806 
+Q 1619 2134 925 2513 
+L 1172 3006 
+Q 1975 2597 2364 2142 
+Q 2753 1688 2753 1194 
+Q 2753 606 2348 306 
+Q 1944 6 1066 6 
+Q 647 6 309 81 
+L 309 647 
+Q 719 563 1019 563 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fee0" d="M 838 1369 
+L 838 4303 
+L 1366 4303 
+L 1366 1359 
+Q 1366 1016 1502 792 
+Q 1638 569 1997 569 
+L 2097 569 
+L 2097 0 
+L 2003 0 
+Q 1653 0 1447 122 
+Q 1241 244 1119 475 
+Q 1016 322 911 215 
+Q 806 109 645 54 
+Q 484 0 206 0 
+L -63 0 
+L -63 569 
+L 200 569 
+Q 463 569 598 673 
+Q 734 778 786 959 
+Q 838 1141 838 1369 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fe8d" d="M 1006 4303 
+L 1006 3 
+L 478 3 
+L 478 4303 
+L 1006 4303 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-feb0" d="M 1292 3204 
+L 1745 2751 
+L 1292 2298 
+L 839 2751 
+L 1292 3204 
+z
+M 2450 0 
+Q 2234 0 2089 58 
+Q 1944 116 1863 181 
+Q 1816 -228 1636 -611 
+Q 1456 -994 1097 -1278 
+Q 738 -1563 147 -1678 
+L -38 -1184 
+Q 725 -1019 1037 -605 
+Q 1350 -191 1350 375 
+Q 1350 641 1292 933 
+Q 1234 1225 1131 1528 
+L 1650 1703 
+L 1819 1050 
+Q 1888 788 2038 678 
+Q 2188 569 2416 569 
+L 2534 569 
+L 2534 0 
+L 2450 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-feeb" d="M 1672 2538 
+L 1919 3000 
+Q 3041 2453 3591 2023 
+Q 4141 1594 4141 1147 
+Q 4141 594 3798 312 
+Q 3456 31 2881 31 
+Q 2666 31 2422 65 
+Q 2178 100 1959 151 
+Q 1741 203 1591 253 
+Q 1319 153 953 76 
+Q 588 0 247 0 
+L -63 0 
+L -63 569 
+L 206 569 
+Q 413 569 570 578 
+Q 728 588 916 609 
+Q 700 784 604 992 
+Q 509 1200 509 1422 
+Q 509 1747 662 1981 
+Q 816 2216 1069 2342 
+Q 1322 2469 1622 2469 
+Q 1756 2469 1891 2434 
+Q 1784 2484 1672 2538 
+z
+M 2238 597 
+Q 2375 581 2537 567 
+Q 2700 553 2825 553 
+Q 3203 553 3401 695 
+Q 3600 838 3600 1138 
+Q 3600 1291 3425 1470 
+Q 3250 1650 2958 1842 
+Q 2666 2034 2313 2222 
+Q 2484 2084 2589 1890 
+Q 2694 1697 2694 1481 
+Q 2694 1188 2576 980 
+Q 2459 772 2238 597 
+z
+M 1047 1428 
+Q 1047 1244 1201 1061 
+Q 1356 878 1650 766 
+Q 2213 994 2213 1422 
+Q 2213 1694 2048 1836 
+Q 1884 1978 1653 1978 
+Q 1384 1978 1215 1828 
+Q 1047 1678 1047 1428 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-3d" d="M 3081 1981 
+L 475 1981 
+L 475 2453 
+L 3081 2453 
+L 3081 1981 
+z
+M 3081 778 
+L 475 778 
+L 475 1247 
+L 3081 1247 
+L 3081 778 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-fe96" d="M 3362 3057 
+L 3799 2623 
+L 3362 2182 
+L 2928 2623 
+L 3362 3057 
+z
+M 2324 3057 
+L 2762 2623 
+L 2324 2182 
+L 1890 2623 
+L 2324 3057 
+z
+M 4734 1847 
+L 5256 1909 
+L 5309 1178 
+Q 5328 881 5479 725 
+Q 5631 569 5934 569 
+L 6009 569 
+L 6009 0 
+L 5934 0 
+Q 5581 0 5354 133 
+Q 5128 266 4981 559 
+Q 4722 259 4317 129 
+Q 3913 0 3194 0 
+L 2672 0 
+Q 1494 0 901 319 
+Q 309 638 309 1422 
+Q 309 1638 357 1844 
+Q 406 2050 484 2241 
+L 969 2059 
+Q 919 1922 886 1765 
+Q 853 1609 853 1469 
+Q 856 1103 1059 908 
+Q 1263 713 1666 641 
+Q 2069 569 2672 569 
+L 3194 569 
+Q 3941 569 4352 725 
+Q 4763 881 4763 1294 
+Q 4763 1422 4755 1569 
+Q 4747 1716 4734 1847 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-29" d="M 1213 1847 
+Q 1213 2434 1089 2998 
+Q 966 3563 722 4022 
+Q 478 4481 122 4753 
+L 241 5134 
+Q 588 4947 869 4612 
+Q 1150 4278 1351 3839 
+Q 1553 3400 1662 2890 
+Q 1772 2381 1772 1847 
+Q 1772 1313 1662 803 
+Q 1553 294 1351 -145 
+Q 1150 -584 869 -918 
+Q 588 -1253 241 -1441 
+L 122 -1059 
+Q 478 -788 722 -328 
+Q 966 131 1089 695 
+Q 1213 1259 1213 1847 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-feb5" d="M 5301 4107 
+L 5723 3685 
+L 5301 3263 
+L 4879 3685 
+L 5301 4107 
+z
+M 5835 3316 
+L 6257 2894 
+L 5835 2472 
+L 5413 2894 
+L 5835 3316 
+z
+M 4767 3316 
+L 5188 2894 
+L 4767 2472 
+L 4345 2894 
+L 4767 3316 
+z
+M 4631 0 
+Q 4422 0 4272 51 
+Q 4122 103 4022 178 
+Q 4019 -344 3822 -748 
+Q 3625 -1153 3214 -1381 
+Q 2803 -1609 2153 -1609 
+Q 1478 -1609 1073 -1362 
+Q 669 -1116 489 -705 
+Q 309 -294 309 197 
+Q 309 528 378 876 
+Q 447 1225 566 1556 
+L 1063 1356 
+Q 972 1069 909 766 
+Q 847 463 847 178 
+Q 847 -159 967 -437 
+Q 1088 -716 1372 -881 
+Q 1656 -1047 2153 -1047 
+Q 2675 -1047 2961 -876 
+Q 3247 -706 3361 -429 
+Q 3475 -153 3475 163 
+Q 3475 534 3375 896 
+Q 3275 1259 3188 1491 
+L 3722 1706 
+L 3909 1116 
+Q 3997 844 4172 706 
+Q 4347 569 4638 569 
+Q 4969 569 5087 747 
+Q 5206 925 5206 1259 
+Q 5206 1341 5198 1453 
+Q 5191 1566 5175 1763 
+L 5697 1828 
+L 5747 1175 
+Q 5763 922 5881 745 
+Q 6000 569 6266 569 
+Q 6525 569 6622 762 
+Q 6719 956 6719 1216 
+Q 6719 1450 6673 1687 
+Q 6628 1925 6594 2072 
+L 7128 2216 
+Q 7184 2006 7218 1770 
+Q 7253 1534 7253 1300 
+Q 7253 963 7159 666 
+Q 7066 369 6852 186 
+Q 6638 3 6269 0 
+Q 5969 0 5784 125 
+Q 5600 250 5484 478 
+Q 5309 225 5095 112 
+Q 4881 0 4631 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="Vazirmatn-Regular-feaf" d="M 1292 3204 
+L 1745 2751 
+L 1292 2298 
+L 839 2751 
+L 1292 3204 
+z
+M 147 -1681 
+L -38 -1184 
+Q 725 -1019 1037 -605 
+Q 1350 -191 1350 375 
+Q 1350 641 1292 933 
+Q 1234 1225 1131 1528 
+L 1650 1703 
+Q 1875 1063 1875 469 
+Q 1875 -53 1692 -498 
+Q 1509 -944 1126 -1255 
+Q 744 -1566 147 -1681 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Vazirmatn-Regular-fbfd"/>
+      <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(64.892578 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(122.216797 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(158.056641 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(189.208984 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(223.4375 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fb95" transform="translate(249.609375 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(300.683594 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(329.492188 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-feb1" transform="translate(356.347656 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(474.511719 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(500.683594 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fed8" transform="translate(536.962891 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(586.71875 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(640.039062 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-2014" transform="translate(666.894531 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(745.019531 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-28" transform="translate(771.875 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(806.054688 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(873.730469 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(899.902344 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(953.222656 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(997.705078 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1028.369141 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(1055.224609 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(1103.076172 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1137.304688 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(1163.476562 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(1199.755859 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(1231.542969 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(1267.822266 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1321.142578 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(1347.998047 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(1382.226562 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(1405.419922 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(1444.042969 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1513.525391 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-3d" transform="translate(1540.380859 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1595.263672 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(1622.119141 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(1715.039062 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(1772.363281 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-29" transform="translate(1841.845703 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1876.025391 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-feb5" transform="translate(1902.880859 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(2021.044922 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(2055.273438 0)"/>
+      <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(2089.501953 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_15"/>
+     <g id="text_9">
+      <!-- (ﻦﯿﺒﻣ) ﺖﮐﺮﺷ ﮏﯾ ﯼﺮﺘﻓﺩ ﺕﺭﺎﺴﺧ .1 -->
+      <g transform="translate(28.888625 391.301279) scale(0.098 -0.098)">
+       <defs>
+        <path id="Vazirmatn-Regular-fee6" d="M 2116 2436 
+L 2569 1983 
+L 2116 1530 
+L 1663 1983 
+L 2116 2436 
+z
+M 2153 -1047 
+Q 2675 -1047 2961 -876 
+Q 3247 -706 3361 -429 
+Q 3475 -153 3475 163 
+Q 3475 534 3375 896 
+Q 3275 1259 3188 1491 
+L 3722 1706 
+L 3953 975 
+Q 4016 775 4158 672 
+Q 4300 569 4556 569 
+L 4678 569 
+L 4678 0 
+L 4569 0 
+Q 4350 0 4236 40 
+Q 4122 81 4022 178 
+Q 4019 -344 3822 -748 
+Q 3625 -1153 3214 -1381 
+Q 2803 -1609 2153 -1609 
+Q 1478 -1609 1073 -1362 
+Q 669 -1116 489 -705 
+Q 309 -294 309 197 
+Q 309 528 378 876 
+Q 447 1225 566 1556 
+L 1063 1356 
+Q 972 1069 909 766 
+Q 847 463 847 178 
+Q 847 -159 967 -437 
+Q 1088 -716 1372 -881 
+Q 1656 -1047 2153 -1047 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fe92" d="M -66 569 
+L 300 569 
+Q 697 569 867 747 
+Q 1038 925 1038 1294 
+Q 1038 1444 1030 1578 
+Q 1022 1713 1009 1847 
+L 1531 1909 
+L 1581 1178 
+Q 1619 569 2216 569 
+L 2281 569 
+L 2281 0 
+L 2209 0 
+Q 1863 0 1655 125 
+Q 1447 250 1319 478 
+Q 1150 231 875 115 
+Q 600 0 300 0 
+L -66 0 
+L -66 569 
+z
+M 578 -478 
+L 1031 -931 
+L 578 -1384 
+L 125 -931 
+L 578 -478 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fb90" d="M 688 3031 
+Q 959 2841 1253 2630 
+Q 1547 2419 1801 2180 
+Q 2056 1941 2214 1670 
+Q 2372 1400 2372 1094 
+Q 2369 513 1970 256 
+Q 1572 0 700 0 
+L -63 0 
+L -63 569 
+L 697 569 
+Q 1303 569 1565 676 
+Q 1828 784 1828 1106 
+Q 1828 1313 1683 1509 
+Q 1538 1706 1308 1898 
+Q 1078 2091 815 2277 
+Q 553 2463 322 2644 
+Q 222 2725 169 2834 
+Q 116 2944 116 3053 
+Q 116 3181 186 3295 
+Q 256 3409 406 3469 
+L 2653 4381 
+L 2653 3828 
+L 688 3031 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-feae" d="M 2450 0 
+Q 2234 0 2089 58 
+Q 1944 116 1863 181 
+Q 1816 -228 1636 -611 
+Q 1456 -994 1097 -1278 
+Q 738 -1563 147 -1678 
+L -38 -1184 
+Q 725 -1019 1037 -605 
+Q 1350 -191 1350 375 
+Q 1350 641 1292 933 
+Q 1234 1225 1131 1528 
+L 1650 1703 
+L 1819 1050 
+Q 1888 788 2038 678 
+Q 2188 569 2416 569 
+L 2534 569 
+L 2534 0 
+L 2450 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-feb7" d="M 2781 4107 
+L 3203 3685 
+L 2781 3263 
+L 2359 3685 
+L 2781 4107 
+z
+M 3315 3316 
+L 3737 2894 
+L 3315 2472 
+L 2893 2894 
+L 3315 3316 
+z
+M 2247 3316 
+L 2668 2894 
+L 2247 2472 
+L 1825 2894 
+L 2247 3316 
+z
+M 2116 0 
+Q 1756 0 1561 123 
+Q 1366 247 1250 478 
+Q 1103 247 875 123 
+Q 647 0 225 0 
+L -63 0 
+L -63 569 
+L 231 569 
+Q 631 569 815 717 
+Q 1000 866 1000 1259 
+Q 1000 1341 992 1452 
+Q 984 1563 969 1763 
+L 1491 1828 
+L 1541 1175 
+Q 1559 913 1701 741 
+Q 1844 569 2122 569 
+Q 2453 569 2572 747 
+Q 2691 925 2691 1259 
+Q 2691 1341 2683 1453 
+Q 2675 1566 2659 1763 
+L 3181 1828 
+L 3231 1175 
+Q 3247 922 3365 745 
+Q 3484 569 3750 569 
+Q 4009 569 4106 762 
+Q 4203 956 4203 1216 
+Q 4203 1450 4158 1687 
+Q 4113 1925 4078 2072 
+L 4613 2216 
+Q 4669 2006 4703 1770 
+Q 4738 1534 4738 1300 
+Q 4738 963 4644 666 
+Q 4550 369 4336 186 
+Q 4122 3 3753 0 
+Q 3453 0 3268 125 
+Q 3084 250 2969 478 
+Q 2794 225 2580 112 
+Q 2366 0 2116 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fb8f" d="M 3459 0 
+L 2663 0 
+Q 1488 0 898 319 
+Q 309 638 309 1422 
+Q 309 1638 357 1844 
+Q 406 2050 484 2241 
+L 969 2059 
+Q 919 1925 886 1769 
+Q 853 1613 853 1472 
+Q 856 1106 1057 911 
+Q 1259 716 1661 642 
+Q 2063 569 2663 569 
+L 3456 569 
+Q 4063 569 4325 676 
+Q 4588 784 4588 1106 
+Q 4588 1313 4442 1509 
+Q 4297 1706 4067 1898 
+Q 3838 2091 3575 2277 
+Q 3313 2463 3081 2644 
+Q 2875 2806 2875 3053 
+Q 2875 3181 2947 3295 
+Q 3019 3409 3169 3469 
+L 5416 4381 
+L 5416 3828 
+L 3450 3031 
+Q 3803 2778 4131 2533 
+Q 4459 2288 4721 2003 
+Q 4984 1719 5138 1341 
+Q 5303 938 5487 753 
+Q 5672 569 6006 569 
+L 6091 569 
+L 6088 0 
+L 6003 0 
+Q 5656 0 5414 134 
+Q 5172 269 4981 563 
+Q 4856 378 4676 253 
+Q 4497 128 4208 64 
+Q 3919 0 3459 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fbfc" d="M 2153 -1578 
+Q 1478 -1578 1073 -1331 
+Q 669 -1084 489 -673 
+Q 309 -263 309 228 
+Q 309 559 378 907 
+Q 447 1256 566 1588 
+L 1063 1388 
+Q 972 1100 909 797 
+Q 847 494 847 209 
+Q 847 -128 967 -406 
+Q 1088 -684 1372 -850 
+Q 1656 -1016 2153 -1016 
+Q 2597 -1016 2947 -905 
+Q 3297 -794 3500 -617 
+Q 3703 -441 3703 -244 
+Q 3703 -144 3643 -56 
+Q 3584 31 3428 31 
+L 2922 31 
+Q 2459 31 2273 254 
+Q 2088 478 2088 875 
+Q 2088 1288 2256 1633 
+Q 2425 1978 2737 2184 
+Q 3050 2391 3478 2391 
+Q 3641 2391 3820 2347 
+Q 4000 2303 4181 2181 
+L 4003 1706 
+Q 3756 1831 3478 1831 
+Q 3081 1831 2857 1553 
+Q 2634 1275 2634 875 
+Q 2634 728 2693 661 
+Q 2753 594 2934 594 
+L 3459 594 
+Q 3891 594 4048 361 
+Q 4206 128 4206 -231 
+Q 4206 -578 3968 -886 
+Q 3731 -1194 3273 -1386 
+Q 2816 -1578 2153 -1578 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fed3" d="M 1364 4676 
+L 1817 4223 
+L 1364 3770 
+L 911 4223 
+L 1364 4676 
+z
+M 1125 569 
+Q 1478 569 1695 609 
+Q 1913 650 2014 789 
+Q 2116 928 2116 1222 
+Q 1963 1175 1805 1150 
+Q 1647 1125 1466 1125 
+Q 403 1125 403 1997 
+Q 403 2297 523 2597 
+Q 644 2897 878 3098 
+Q 1113 3300 1447 3300 
+Q 1753 3300 1973 3144 
+Q 2194 2988 2336 2723 
+Q 2478 2459 2547 2126 
+Q 2616 1794 2616 1441 
+Q 2616 975 2533 689 
+Q 2450 403 2269 254 
+Q 2088 106 1797 53 
+Q 1506 0 1088 0 
+L -63 0 
+L -63 569 
+L 1125 569 
+z
+M 1509 1663 
+Q 1653 1663 1795 1689 
+Q 1938 1716 2081 1756 
+Q 2056 1978 1989 2206 
+Q 1922 2434 1790 2589 
+Q 1659 2744 1441 2744 
+Q 1247 2744 1130 2622 
+Q 1013 2500 961 2331 
+Q 909 2163 909 2019 
+Q 909 1803 1064 1733 
+Q 1219 1663 1509 1663 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fe95" d="M 3400 0 
+L 2672 0 
+Q 1494 0 901 319 
+Q 309 638 309 1422 
+Q 309 1638 357 1844 
+Q 406 2050 484 2241 
+L 969 2059 
+Q 919 1922 886 1765 
+Q 853 1609 853 1469 
+Q 856 1103 1059 908 
+Q 1263 713 1666 641 
+Q 2069 569 2672 569 
+L 3403 569 
+Q 3616 569 3848 581 
+Q 4081 594 4284 650 
+Q 4488 706 4616 839 
+Q 4744 972 4744 1213 
+Q 4744 1388 4709 1630 
+Q 4675 1872 4628 2109 
+L 5172 2247 
+Q 5228 2003 5258 1742 
+Q 5288 1481 5288 1288 
+Q 5288 863 5144 606 
+Q 5000 350 4742 219 
+Q 4484 88 4142 44 
+Q 3800 0 3400 0 
+z
+M 3338 3057 
+L 3775 2623 
+L 3338 2182 
+L 2904 2623 
+L 3338 3057 
+z
+M 2300 3057 
+L 2738 2623 
+L 2300 2182 
+L 1866 2623 
+L 2300 3057 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-feb4" d="M 3753 0 
+Q 3453 0 3268 125 
+Q 3084 250 2969 478 
+Q 2794 225 2580 112 
+Q 2366 0 2116 0 
+Q 1756 0 1561 123 
+Q 1366 247 1250 478 
+Q 1103 247 875 123 
+Q 647 0 225 0 
+L -63 0 
+L -63 569 
+L 231 569 
+Q 631 569 815 717 
+Q 1000 866 1000 1259 
+Q 1000 1341 992 1452 
+Q 984 1563 969 1763 
+L 1491 1828 
+L 1541 1175 
+Q 1559 913 1701 741 
+Q 1844 569 2122 569 
+Q 2453 569 2572 747 
+Q 2691 925 2691 1259 
+Q 2691 1341 2683 1453 
+Q 2675 1566 2659 1763 
+L 3181 1828 
+L 3231 1175 
+Q 3247 922 3365 745 
+Q 3484 569 3750 569 
+Q 4213 569 4213 1259 
+Q 4213 1372 4205 1494 
+Q 4197 1616 4181 1816 
+L 4703 1878 
+L 4753 1175 
+Q 4791 569 5372 569 
+L 5466 569 
+L 5466 0 
+L 5378 0 
+Q 5050 0 4831 120 
+Q 4613 241 4531 481 
+Q 4400 250 4229 125 
+Q 4059 0 3753 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fea7" d="M 1884 3972 
+L 2337 3519 
+L 1884 3066 
+L 1431 3519 
+L 1884 3972 
+z
+M -63 569 
+L 469 569 
+Q 834 569 1140 634 
+Q 1447 700 1739 815 
+Q 2031 931 2351 1089 
+Q 2672 1247 3069 1428 
+Q 2847 1509 2609 1604 
+Q 2372 1700 2158 1784 
+Q 1944 1869 1784 1923 
+Q 1625 1978 1559 1978 
+Q 1369 1978 1223 1867 
+Q 1078 1756 956 1600 
+L 872 1494 
+L 394 1728 
+L 441 1803 
+Q 647 2138 920 2339 
+Q 1194 2541 1563 2541 
+Q 1716 2541 1933 2462 
+Q 2150 2384 2406 2267 
+Q 2663 2150 2938 2029 
+Q 3213 1909 3488 1826 
+Q 3763 1744 4013 1734 
+L 4013 1194 
+Q 3813 1172 3502 1048 
+Q 3191 925 2694 663 
+Q 2294 450 1951 301 
+Q 1609 153 1254 76 
+Q 900 0 459 0 
+L -63 0 
+L -63 569 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-2e" d="M 453 416 
+Q 453 588 575 711 
+Q 697 834 869 834 
+Q 1041 834 1162 711 
+Q 1284 588 1284 416 
+Q 1284 244 1162 122 
+Q 1041 0 869 0 
+Q 697 0 575 119 
+Q 453 238 453 416 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-31" d="M 2278 4575 
+L 2278 0 
+L 1700 0 
+L 1700 3853 
+L 534 3428 
+L 534 3950 
+L 2188 4575 
+L 2278 4575 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-28"/>
+       <use xlink:href="#Vazirmatn-Regular-fee6" transform="translate(34.179688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(106.298828 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(142.578125 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(177.246094 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-29" transform="translate(230.566406 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(264.746094 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(291.601562 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(384.521484 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(428.90625 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(467.529297 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(546.386719 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb8f" transform="translate(573.242188 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(667.431641 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(698.583984 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(725.439453 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(795.996094 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(834.619141 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fed3" transform="translate(870.458984 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(916.162109 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(964.013672 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe95" transform="translate(990.869141 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(1078.320312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1112.548828 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb4" transform="translate(1138.720703 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(1223.144531 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1290.136719 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(1316.992188 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-31" transform="translate(1344.140625 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_16"/>
+     <g id="text_10">
+      <!-- ﺖﮐﺮﺷ ﻥﺎﻤﻫ ﯼﺯﺎﺳﺯﺎﺑ ﯼﻪﻨﯾﺰﻫ .2 -->
+      <g transform="translate(42.519812 336.201588) scale(0.098 -0.098)">
+       <defs>
+        <path id="Vazirmatn-Regular-feb3" d="M 2116 0 
+Q 1756 0 1561 123 
+Q 1366 247 1250 478 
+Q 1103 247 875 123 
+Q 647 0 225 0 
+L -63 0 
+L -63 569 
+L 231 569 
+Q 631 569 815 717 
+Q 1000 866 1000 1259 
+Q 1000 1341 992 1452 
+Q 984 1563 969 1763 
+L 1491 1828 
+L 1541 1175 
+Q 1559 913 1701 741 
+Q 1844 569 2122 569 
+Q 2453 569 2572 747 
+Q 2691 925 2691 1259 
+Q 2691 1341 2683 1453 
+Q 2675 1566 2659 1763 
+L 3181 1828 
+L 3231 1175 
+Q 3247 922 3365 745 
+Q 3484 569 3750 569 
+Q 4009 569 4106 762 
+Q 4203 956 4203 1216 
+Q 4203 1450 4158 1687 
+Q 4113 1925 4078 2072 
+L 4613 2216 
+Q 4669 2006 4703 1770 
+Q 4738 1534 4738 1300 
+Q 4738 963 4644 666 
+Q 4550 369 4336 186 
+Q 4122 3 3753 0 
+Q 3453 0 3268 125 
+Q 3084 250 2969 478 
+Q 2794 225 2580 112 
+Q 2366 0 2116 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fe91" d="M 509 0 
+L -66 0 
+L -66 569 
+L 503 569 
+Q 816 569 927 750 
+Q 1038 931 1038 1209 
+Q 1038 1413 1000 1644 
+Q 963 1875 919 2109 
+L 1463 2247 
+Q 1516 1997 1547 1756 
+Q 1578 1516 1578 1297 
+Q 1578 922 1475 628 
+Q 1372 334 1137 167 
+Q 903 0 509 0 
+z
+M 578 -478 
+L 1031 -931 
+L 578 -1384 
+L 125 -931 
+L 578 -478 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-feea" d="M 3272 0 
+Q 2813 0 2558 215 
+Q 2303 431 2228 809 
+Q 2047 628 1836 531 
+Q 1625 434 1363 434 
+Q 916 434 612 675 
+Q 309 916 309 1341 
+Q 309 1822 703 2173 
+Q 1097 2525 1941 2784 
+L 1919 2934 
+L 2419 3034 
+L 2691 1116 
+Q 2728 841 2870 705 
+Q 3013 569 3284 569 
+L 3381 569 
+L 3381 0 
+L 3272 0 
+z
+M 2103 1572 
+Q 2103 1669 2091 1756 
+L 2013 2278 
+Q 1406 2059 1129 1846 
+Q 853 1634 853 1381 
+Q 853 1175 993 1069 
+Q 1134 963 1375 963 
+Q 1559 963 1726 1034 
+Q 1894 1106 1998 1243 
+Q 2103 1381 2103 1572 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fee8" d="M 947 1847 
+L 1469 1909 
+L 1519 1178 
+Q 1556 569 2153 569 
+L 2219 569 
+L 2219 0 
+L 2147 0 
+Q 1800 0 1592 125 
+Q 1384 250 1256 478 
+Q 1088 231 813 115 
+Q 538 0 238 0 
+L -63 0 
+L -63 569 
+L 238 569 
+Q 634 569 804 747 
+Q 975 925 975 1294 
+Q 975 1444 967 1578 
+Q 959 1713 947 1847 
+z
+M 1004 3396 
+L 1457 2943 
+L 1004 2490 
+L 551 2943 
+L 1004 3396 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-32" d="M 3359 475 
+L 3359 0 
+L 381 0 
+L 381 416 
+L 1872 2075 
+Q 2147 2381 2298 2595 
+Q 2450 2809 2511 2979 
+Q 2572 3150 2572 3328 
+Q 2572 3663 2365 3900 
+Q 2159 4138 1778 4138 
+Q 1322 4138 1097 3880 
+Q 872 3622 872 3213 
+L 294 3213 
+Q 294 3597 462 3915 
+Q 631 4234 962 4423 
+Q 1294 4613 1778 4613 
+Q 2422 4613 2786 4278 
+Q 3150 3944 3150 3397 
+Q 3150 2994 2898 2586 
+Q 2647 2178 2297 1797 
+L 1078 475 
+L 3359 475 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-fe96"/>
+       <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(92.919922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(137.304688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(175.927734 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(254.785156 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(281.640625 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(349.316406 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(375.488281 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(432.8125 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(502.294922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(529.150391 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(599.707031 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(633.935547 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(660.107422 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(738.964844 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(773.193359 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(799.365234 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(828.857422 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(855.712891 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(926.269531 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(978.125 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(1011.816406 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(1042.96875 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(1081.591797 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1151.074219 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(1177.929688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-32" transform="translate(1205.078125 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_17"/>
+     <g id="text_11">
+      <!-- (ﻪﮐﺭﺎﺒﻣ ﺩﻻﻮﻓ) ﮒﺭﺰﺑ ﺖﮐﺮﺷ ﮏﯾ ﺕﺭﺎﺴﺧ .3 -->
+      <g transform="translate(7.2 281.899679) scale(0.098 -0.098)">
+       <defs>
+        <path id="Vazirmatn-Regular-fefb" d="M 872 0 
+Q 744 0 609 6 
+Q 475 13 338 25 
+L 338 563 
+Q 531 550 665 542 
+Q 800 534 934 534 
+Q 1063 534 1158 537 
+Q 1253 541 1316 550 
+Q 1316 550 1269 833 
+Q 1222 1116 1112 1598 
+Q 1003 2081 814 2687 
+Q 625 3294 341 3938 
+L 825 4163 
+Q 1106 3497 1298 2869 
+Q 1491 2241 1605 1739 
+Q 1719 1238 1769 942 
+Q 1819 647 1819 647 
+Q 2053 713 2237 848 
+Q 2422 984 2528 1245 
+Q 2634 1506 2634 1950 
+L 2634 4303 
+L 3163 4303 
+L 3163 1941 
+Q 3163 1350 2994 970 
+Q 2825 591 2519 380 
+Q 2213 169 1794 84 
+Q 1375 0 872 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fb92" d="M 3018 3806 
+L 3018 4150 
+L 5393 5112 
+L 5393 4768 
+L 3018 3806 
+z
+M 3463 0 
+L 2672 0 
+Q 1497 0 903 319 
+Q 309 638 309 1422 
+Q 309 1638 357 1844 
+Q 406 2050 484 2241 
+L 969 2059 
+Q 919 1922 886 1765 
+Q 853 1609 853 1469 
+Q 856 1103 1059 908 
+Q 1263 713 1666 641 
+Q 2069 569 2672 569 
+L 3459 569 
+Q 4066 569 4328 676 
+Q 4591 784 4591 1106 
+Q 4591 1313 4445 1509 
+Q 4300 1706 4070 1898 
+Q 3841 2091 3578 2277 
+Q 3316 2463 3084 2644 
+Q 2984 2725 2931 2834 
+Q 2878 2944 2878 3056 
+Q 2878 3184 2948 3296 
+Q 3019 3409 3169 3469 
+L 5416 4381 
+L 5416 3828 
+L 3450 3031 
+Q 3719 2841 4012 2630 
+Q 4306 2419 4561 2180 
+Q 4816 1941 4975 1670 
+Q 5134 1400 5134 1094 
+Q 5131 513 4732 256 
+Q 4334 0 3463 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-33" d="M 1222 2084 
+L 1222 2559 
+L 1634 2559 
+Q 2088 2559 2309 2781 
+Q 2531 3003 2531 3338 
+Q 2531 4138 1738 4138 
+Q 1369 4138 1141 3927 
+Q 913 3716 913 3359 
+L 334 3359 
+Q 334 3706 509 3990 
+Q 684 4275 1001 4444 
+Q 1319 4613 1738 4613 
+Q 2353 4613 2733 4286 
+Q 3113 3959 3113 3325 
+Q 3113 3072 2942 2784 
+Q 2772 2497 2397 2338 
+Q 2700 2241 2870 2067 
+Q 3041 1894 3111 1684 
+Q 3181 1475 3181 1269 
+Q 3181 844 2992 547 
+Q 2803 250 2478 93 
+Q 2153 -63 1741 -63 
+Q 1347 -63 1019 85 
+Q 691 234 494 517 
+Q 297 800 297 1203 
+L 875 1203 
+Q 875 844 1108 628 
+Q 1341 413 1741 413 
+Q 2141 413 2370 622 
+Q 2600 831 2600 1256 
+Q 2600 1681 2337 1882 
+Q 2075 2084 1634 2084 
+L 1222 2084 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-28"/>
+       <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(34.179688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(86.035156 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(130.419922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(164.648438 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(190.820312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(225.488281 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(278.808594 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(305.664062 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fefb" transform="translate(353.515625 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(410.351562 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fed3" transform="translate(454.833984 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-29" transform="translate(500.537109 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(534.716797 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb92" transform="translate(561.572266 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(649.121094 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(683.349609 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(721.972656 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(751.464844 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(778.320312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(871.240234 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(915.625 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(954.248047 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1033.105469 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb8f" transform="translate(1059.960938 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(1154.150391 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1185.302734 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe95" transform="translate(1212.158203 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(1299.609375 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1333.837891 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb4" transform="translate(1360.009766 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(1444.433594 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1511.425781 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(1538.28125 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-33" transform="translate(1565.429688 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_18"/>
+     <g id="text_12">
+      <!-- (ﻕﺮﺑ ﯼﻪﮑﺒﺷ) ﺖﻌﻨﺻ ﮏﯾ ﺕﺭﺎﺴﺧ .4 -->
+      <g transform="translate(28.684969 227.198879) scale(0.098 -0.098)">
+       <defs>
+        <path id="Vazirmatn-Regular-fed5" d="M 3394 3761 
+L 3831 3327 
+L 3394 2886 
+L 2960 3327 
+L 3394 3761 
+z
+M 2356 3761 
+L 2794 3327 
+L 2356 2886 
+L 1922 3327 
+L 2356 3761 
+z
+M 2153 -1381 
+Q 1478 -1381 1073 -1134 
+Q 669 -888 489 -477 
+Q 309 -66 309 425 
+Q 309 756 378 1104 
+Q 447 1453 566 1784 
+L 1063 1584 
+Q 972 1297 909 994 
+Q 847 691 847 406 
+Q 847 69 967 -209 
+Q 1088 -488 1372 -653 
+Q 1656 -819 2153 -819 
+Q 2950 -819 3279 -508 
+Q 3609 -197 3609 363 
+Q 3447 316 3298 287 
+Q 3150 259 2956 259 
+Q 1884 259 1884 1134 
+Q 1884 1434 2004 1736 
+Q 2125 2038 2359 2238 
+Q 2594 2438 2928 2438 
+Q 3256 2438 3484 2273 
+Q 3713 2109 3853 1829 
+Q 3994 1550 4058 1206 
+Q 4122 863 4122 500 
+Q 4122 -425 3628 -903 
+Q 3134 -1381 2153 -1381 
+z
+M 2978 797 
+Q 3125 797 3272 823 
+Q 3419 850 3563 891 
+Q 3538 1113 3470 1342 
+Q 3403 1572 3272 1726 
+Q 3141 1881 2922 1881 
+Q 2731 1881 2612 1759 
+Q 2494 1638 2441 1467 
+Q 2388 1297 2388 1156 
+Q 2388 944 2541 870 
+Q 2694 797 2978 797 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fb91" d="M 688 3031 
+Q 1044 2781 1370 2536 
+Q 1697 2291 1959 2005 
+Q 2222 1719 2375 1341 
+Q 2541 938 2725 753 
+Q 2909 569 3244 569 
+L 3331 569 
+L 3331 0 
+L 3244 0 
+Q 2897 0 2655 134 
+Q 2413 269 2222 563 
+Q 2097 378 1917 253 
+Q 1738 128 1448 64 
+Q 1159 0 700 0 
+L -63 0 
+L -63 569 
+L 697 569 
+Q 1303 569 1565 676 
+Q 1828 784 1828 1106 
+Q 1828 1313 1683 1509 
+Q 1538 1706 1308 1898 
+Q 1078 2091 815 2277 
+Q 553 2463 322 2644 
+Q 222 2725 169 2834 
+Q 116 2944 116 3056 
+Q 116 3184 186 3296 
+Q 256 3409 406 3469 
+L 2653 4381 
+L 2653 3828 
+L 688 3031 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fecc" d="M 1944 2444 
+Q 2184 2444 2440 2405 
+Q 2697 2366 2917 2294 
+Q 3138 2222 3275 2119 
+Q 3413 2016 3413 1888 
+Q 3413 1797 3317 1637 
+Q 3222 1478 3073 1293 
+Q 2925 1109 2762 939 
+Q 2600 769 2466 650 
+Q 2684 594 2881 581 
+Q 3078 569 3238 569 
+L 3725 569 
+L 3725 0 
+L 3241 0 
+Q 2913 0 2586 78 
+Q 2259 156 1944 338 
+Q 1738 219 1467 144 
+Q 1197 69 923 34 
+Q 650 0 431 0 
+L -63 0 
+L -63 569 
+L 434 569 
+Q 541 569 720 573 
+Q 900 578 1092 595 
+Q 1284 613 1428 650 
+Q 1294 769 1131 939 
+Q 969 1109 820 1293 
+Q 672 1478 575 1637 
+Q 478 1797 478 1888 
+Q 478 2016 612 2119 
+Q 747 2222 967 2294 
+Q 1188 2366 1444 2405 
+Q 1700 2444 1944 2444 
+z
+M 1944 1906 
+Q 1803 1906 1542 1884 
+Q 1281 1863 1050 1784 
+Q 1253 1528 1459 1325 
+Q 1666 1122 1805 1001 
+Q 1944 881 1944 881 
+Q 1944 881 2084 1001 
+Q 2225 1122 2434 1325 
+Q 2644 1528 2844 1784 
+Q 2613 1863 2350 1884 
+Q 2088 1906 1944 1906 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-febb" d="M 1656 666 
+Q 2213 1616 2750 2067 
+Q 3288 2519 3825 2519 
+Q 4181 2519 4457 2364 
+Q 4734 2209 4890 1943 
+Q 5047 1678 5047 1344 
+Q 5044 659 4472 329 
+Q 3900 0 2741 0 
+L 2575 0 
+Q 1913 0 1566 125 
+Q 1219 250 1075 475 
+Q 894 228 667 114 
+Q 441 0 66 0 
+L -63 0 
+L -59 569 
+L 66 569 
+Q 503 569 654 755 
+Q 806 941 806 1294 
+Q 806 1444 795 1572 
+Q 784 1700 778 1847 
+L 1300 1909 
+L 1347 1178 
+Q 1363 969 1434 817 
+Q 1506 666 1656 666 
+z
+M 3850 1950 
+Q 3097 1950 2222 569 
+L 2728 569 
+Q 3619 569 4056 747 
+Q 4494 925 4494 1313 
+Q 4494 1588 4317 1769 
+Q 4141 1950 3850 1950 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-34" d="M 3453 1531 
+L 3453 1056 
+L 2819 1056 
+L 2819 0 
+L 2241 0 
+L 2241 1056 
+L 166 1056 
+L 166 1397 
+L 2203 4550 
+L 2819 4550 
+L 2819 1531 
+L 3453 1531 
+z
+M 822 1531 
+L 2241 1531 
+L 2241 3766 
+L 2169 3638 
+L 822 1531 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-28"/>
+       <use xlink:href="#Vazirmatn-Regular-fed5" transform="translate(34.179688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(103.417969 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(142.041016 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(171.533203 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(198.388672 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(268.945312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb91" transform="translate(320.800781 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(371.875 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(406.542969 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-29" transform="translate(485.400391 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(519.580078 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(546.435547 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fecc" transform="translate(639.355469 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(696.582031 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-febb" transform="translate(730.273438 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(813.916016 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb8f" transform="translate(840.771484 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(934.960938 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(966.113281 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe95" transform="translate(992.96875 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(1080.419922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1114.648438 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb4" transform="translate(1140.820312 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(1225.244141 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1292.236328 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(1319.091797 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-34" transform="translate(1346.240234 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_19"/>
+     <g id="text_13">
+      <!-- ﺭﻮﺸﮐ ﺖﻌﻨﺻ ﺶﺨﺑ ﺕﺭﺎﺴﺧ .5 -->
+      <g transform="translate(49.860625 172.050954) scale(0.098 -0.098)">
+       <defs>
+        <path id="Vazirmatn-Regular-feb8" d="M 2781 4107 
+L 3203 3685 
+L 2781 3263 
+L 2359 3685 
+L 2781 4107 
+z
+M 3315 3316 
+L 3737 2894 
+L 3315 2472 
+L 2893 2894 
+L 3315 3316 
+z
+M 2247 3316 
+L 2668 2894 
+L 2247 2472 
+L 1825 2894 
+L 2247 3316 
+z
+M 3753 0 
+Q 3453 0 3268 125 
+Q 3084 250 2969 478 
+Q 2794 225 2580 112 
+Q 2366 0 2116 0 
+Q 1756 0 1561 123 
+Q 1366 247 1250 478 
+Q 1103 247 875 123 
+Q 647 0 225 0 
+L -63 0 
+L -63 569 
+L 231 569 
+Q 631 569 815 717 
+Q 1000 866 1000 1259 
+Q 1000 1341 992 1452 
+Q 984 1563 969 1763 
+L 1491 1828 
+L 1541 1175 
+Q 1559 913 1701 741 
+Q 1844 569 2122 569 
+Q 2453 569 2572 747 
+Q 2691 925 2691 1259 
+Q 2691 1341 2683 1453 
+Q 2675 1566 2659 1763 
+L 3181 1828 
+L 3231 1175 
+Q 3247 922 3365 745 
+Q 3484 569 3750 569 
+Q 4213 569 4213 1259 
+Q 4213 1372 4205 1494 
+Q 4197 1616 4181 1816 
+L 4703 1878 
+L 4753 1175 
+Q 4791 569 5372 569 
+L 5466 569 
+L 5466 0 
+L 5378 0 
+Q 5050 0 4831 120 
+Q 4613 241 4531 481 
+Q 4400 250 4229 125 
+Q 4059 0 3753 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-feb6" d="M 5301 4107 
+L 5723 3685 
+L 5301 3263 
+L 4879 3685 
+L 5301 4107 
+z
+M 5835 3316 
+L 6257 2894 
+L 5835 2472 
+L 5413 2894 
+L 5835 3316 
+z
+M 4767 3316 
+L 5188 2894 
+L 4767 2472 
+L 4345 2894 
+L 4767 3316 
+z
+M 2153 -1047 
+Q 2675 -1047 2961 -876 
+Q 3247 -706 3361 -429 
+Q 3475 -153 3475 163 
+Q 3475 534 3375 896 
+Q 3275 1259 3188 1491 
+L 3722 1706 
+L 3909 1116 
+Q 3997 844 4172 706 
+Q 4347 569 4634 569 
+Q 4966 569 5084 747 
+Q 5203 925 5203 1259 
+Q 5203 1341 5195 1453 
+Q 5188 1566 5172 1763 
+L 5694 1828 
+L 5744 1175 
+Q 5759 922 5878 745 
+Q 5997 569 6263 569 
+Q 6725 569 6725 1259 
+Q 6725 1372 6717 1494 
+Q 6709 1616 6694 1816 
+L 7216 1878 
+L 7266 1175 
+Q 7303 569 7884 569 
+L 7978 569 
+L 7978 0 
+L 7891 0 
+Q 7563 0 7344 120 
+Q 7125 241 7044 481 
+Q 6913 250 6742 125 
+Q 6572 0 6266 0 
+Q 5966 0 5781 125 
+Q 5597 250 5481 478 
+Q 5306 225 5092 112 
+Q 4878 0 4628 0 
+Q 4422 0 4272 51 
+Q 4122 103 4022 178 
+Q 4019 -344 3822 -748 
+Q 3625 -1153 3214 -1381 
+Q 2803 -1609 2153 -1609 
+Q 1478 -1609 1073 -1362 
+Q 669 -1116 489 -705 
+Q 309 -294 309 197 
+Q 309 528 378 876 
+Q 447 1225 566 1556 
+L 1063 1356 
+Q 972 1069 909 766 
+Q 847 463 847 178 
+Q 847 -159 967 -437 
+Q 1088 -716 1372 -881 
+Q 1656 -1047 2153 -1047 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fea8" d="M 1884 3972 
+L 2337 3519 
+L 1884 3066 
+L 1431 3519 
+L 1884 3972 
+z
+M 4013 1734 
+L 4013 1194 
+Q 3878 1181 3697 1126 
+Q 3516 1072 3313 975 
+Q 3319 716 3562 642 
+Q 3806 569 4253 569 
+L 4425 569 
+L 4425 0 
+L 4241 0 
+Q 3603 0 3286 169 
+Q 2969 338 2906 775 
+Q 2288 438 1708 219 
+Q 1128 0 459 0 
+L -63 0 
+L -63 569 
+L 469 569 
+Q 834 569 1140 634 
+Q 1447 700 1739 815 
+Q 2031 931 2351 1089 
+Q 2672 1247 3069 1428 
+Q 2847 1509 2609 1604 
+Q 2372 1700 2158 1784 
+Q 1944 1869 1784 1923 
+Q 1625 1978 1559 1978 
+Q 1369 1978 1223 1867 
+Q 1078 1756 956 1600 
+L 872 1494 
+L 394 1728 
+L 441 1803 
+Q 647 2138 920 2339 
+Q 1194 2541 1563 2541 
+Q 1716 2541 1933 2462 
+Q 2150 2384 2406 2267 
+Q 2663 2150 2938 2029 
+Q 3213 1909 3488 1826 
+Q 3763 1744 4013 1734 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-35" d="M 1109 2166 
+L 647 2284 
+L 875 4550 
+L 3209 4550 
+L 3209 4016 
+L 1366 4016 
+L 1228 2778 
+Q 1353 2850 1545 2912 
+Q 1738 2975 1988 2975 
+Q 2616 2975 2980 2561 
+Q 3344 2147 3344 1450 
+Q 3344 1016 3186 673 
+Q 3028 331 2709 134 
+Q 2391 -63 1903 -63 
+Q 1534 -63 1226 75 
+Q 919 213 720 492 
+Q 522 772 481 1197 
+L 1031 1197 
+Q 1084 809 1309 611 
+Q 1534 413 1903 413 
+Q 2313 413 2538 691 
+Q 2763 969 2763 1444 
+Q 2763 1872 2527 2164 
+Q 2291 2456 1853 2456 
+Q 1563 2456 1414 2378 
+Q 1266 2300 1109 2166 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-fead"/>
+       <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(34.228516 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb8" transform="translate(78.710938 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(163.134766 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(207.519531 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(234.375 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fecc" transform="translate(327.294922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(384.521484 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-febb" transform="translate(418.212891 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(501.855469 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb6" transform="translate(528.710938 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea8" transform="translate(652.392578 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(720.556641 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(750.048828 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe95" transform="translate(776.904297 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(864.355469 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(898.583984 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb4" transform="translate(924.755859 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(1009.179688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1076.171875 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(1103.027344 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-35" transform="translate(1130.175781 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_20"/>
+     <g id="text_14">
+      <!-- (ﻥﺎﻬﻔﺻﺍ) ﻥﺎﺘﺳﺍ ﮏﯾ ﺯﺍﺮﺗ .6 -->
+      <g transform="translate(63.899125 117.797279) scale(0.098 -0.098)">
+       <defs>
+        <path id="Vazirmatn-Regular-feec" d="M -63 0 
+L -63 569 
+L 584 569 
+L 584 625 
+Q 584 959 645 1304 
+Q 706 1650 837 1942 
+Q 969 2234 1183 2412 
+Q 1397 2591 1703 2591 
+Q 2100 2591 2325 2312 
+Q 2550 2034 2550 1588 
+Q 2550 1297 2434 1015 
+Q 2319 734 2119 503 
+Q 1919 272 1662 134 
+Q 1406 -3 1125 -3 
+Q 1188 -266 1372 -537 
+Q 1556 -809 1831 -988 
+Q 1831 569 3147 569 
+L 3250 569 
+L 3250 0 
+L 3141 0 
+Q 2722 0 2511 -228 
+Q 2300 -456 2300 -1000 
+Q 2300 -1069 2303 -1145 
+Q 2306 -1222 2313 -1297 
+L 1925 -1675 
+Q 1394 -1406 1062 -967 
+Q 731 -528 628 0 
+L -63 0 
+z
+M 1697 2041 
+Q 1509 2041 1375 1853 
+Q 1241 1666 1170 1345 
+Q 1100 1025 1100 628 
+L 1100 566 
+Q 1363 566 1578 706 
+Q 1794 847 1922 1080 
+Q 2050 1313 2050 1588 
+Q 2050 1809 1951 1925 
+Q 1853 2041 1697 2041 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fed4" d="M 1660 3972 
+L 2113 3519 
+L 1660 3066 
+L 1207 3519 
+L 1660 3972 
+z
+M 2794 1472 
+Q 2794 1225 2684 1014 
+Q 2575 803 2384 581 
+Q 2563 572 2700 570 
+Q 2838 569 2944 569 
+L 3247 569 
+L 3247 0 
+L 2953 0 
+Q 2834 0 2626 20 
+Q 2419 41 2170 91 
+Q 1922 141 1681 225 
+Q 1441 138 1187 89 
+Q 934 41 718 20 
+Q 503 0 375 0 
+L -63 0 
+L -63 569 
+L 375 569 
+Q 506 569 648 570 
+Q 791 572 994 584 
+Q 806 803 700 1018 
+Q 594 1234 594 1478 
+Q 594 1672 684 1869 
+Q 775 2066 928 2234 
+Q 1081 2403 1278 2504 
+Q 1475 2606 1684 2606 
+Q 1903 2606 2103 2504 
+Q 2303 2403 2458 2236 
+Q 2613 2069 2703 1869 
+Q 2794 1669 2794 1472 
+z
+M 1684 2053 
+Q 1566 2053 1436 1964 
+Q 1306 1875 1217 1740 
+Q 1128 1606 1128 1466 
+Q 1128 1322 1212 1172 
+Q 1297 1022 1426 897 
+Q 1556 772 1691 703 
+Q 1928 803 2095 1026 
+Q 2263 1250 2263 1472 
+Q 2263 1603 2170 1737 
+Q 2078 1872 1943 1962 
+Q 1809 2053 1684 2053 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-36" d="M 2597 4556 
+L 2647 4556 
+L 2647 4066 
+L 2597 4066 
+Q 2044 4066 1706 3853 
+Q 1369 3641 1205 3302 
+Q 1041 2963 1006 2575 
+Q 1194 2788 1445 2886 
+Q 1697 2984 1984 2984 
+Q 2441 2984 2728 2765 
+Q 3016 2547 3153 2203 
+Q 3291 1859 3291 1484 
+Q 3291 1053 3130 703 
+Q 2969 353 2655 145 
+Q 2341 -63 1878 -63 
+Q 1509 -63 1234 89 
+Q 959 241 778 494 
+Q 597 747 506 1056 
+Q 416 1366 416 1684 
+L 416 1956 
+Q 416 2438 512 2900 
+Q 609 3363 848 3738 
+Q 1088 4113 1513 4334 
+Q 1938 4556 2597 4556 
+z
+M 997 1666 
+Q 997 1263 1122 983 
+Q 1247 703 1448 559 
+Q 1650 416 1878 416 
+Q 2278 416 2498 709 
+Q 2719 1003 2719 1456 
+Q 2719 1728 2630 1968 
+Q 2541 2209 2356 2357 
+Q 2172 2506 1891 2506 
+Q 1588 2506 1341 2325 
+Q 1094 2144 997 1884 
+L 997 1666 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-28"/>
+       <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(34.179688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(101.855469 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feec" transform="translate(128.027344 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fed4" transform="translate(177.832031 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-febb" transform="translate(227.587891 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(311.230469 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-29" transform="translate(334.423828 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(368.603516 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(395.458984 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(463.134766 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(489.306641 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(525.146484 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(604.003906 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(627.197266 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fb8f" transform="translate(654.052734 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(748.242188 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(779.394531 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(806.25 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(840.478516 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(863.671875 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(902.294922 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(932.958984 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(959.814453 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-36" transform="translate(986.962891 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_21"/>
+     <g id="text_15">
+      <!-- ﮓﻨﺟ ﺕﺭﺎﺴﺧ ﯽﻠﻣ ﺩﺭﻭﺁﺮﺑ .7 -->
+      <g transform="translate(62.958937 63.079635) scale(0.098 -0.098)">
+       <defs>
+        <path id="Vazirmatn-Regular-fb93" d="M 3018 3806 
+L 3018 4150 
+L 5393 5112 
+L 5393 4768 
+L 3018 3806 
+z
+M 3459 0 
+L 2663 0 
+Q 1488 0 898 319 
+Q 309 638 309 1422 
+Q 309 1638 357 1844 
+Q 406 2050 484 2241 
+L 969 2059 
+Q 919 1925 886 1769 
+Q 853 1613 853 1472 
+Q 856 1106 1057 911 
+Q 1259 716 1661 642 
+Q 2063 569 2663 569 
+L 3456 569 
+Q 4063 569 4325 676 
+Q 4588 784 4588 1106 
+Q 4588 1313 4442 1509 
+Q 4297 1706 4067 1898 
+Q 3838 2091 3575 2277 
+Q 3313 2463 3081 2644 
+Q 2875 2806 2875 3053 
+Q 2875 3181 2947 3295 
+Q 3019 3409 3169 3469 
+L 5416 4381 
+L 5416 3828 
+L 3450 3031 
+Q 3803 2778 4131 2533 
+Q 4459 2288 4721 2003 
+Q 4984 1719 5138 1341 
+Q 5303 938 5487 753 
+Q 5672 569 6006 569 
+L 6091 569 
+L 6088 0 
+L 6003 0 
+Q 5656 0 5414 134 
+Q 5172 269 4981 563 
+Q 4856 378 4676 253 
+Q 4497 128 4208 64 
+Q 3919 0 3459 0 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fe9f" d="M 2084 -508 
+L 2537 -961 
+L 2084 -1414 
+L 1631 -961 
+L 2084 -508 
+z
+M -63 569 
+L 469 569 
+Q 834 569 1140 634 
+Q 1447 700 1739 815 
+Q 2031 931 2351 1089 
+Q 2672 1247 3069 1428 
+Q 2847 1509 2609 1604 
+Q 2372 1700 2158 1784 
+Q 1944 1869 1784 1923 
+Q 1625 1978 1559 1978 
+Q 1369 1978 1223 1867 
+Q 1078 1756 956 1600 
+L 872 1494 
+L 394 1728 
+L 441 1803 
+Q 647 2138 920 2339 
+Q 1194 2541 1563 2541 
+Q 1716 2541 1933 2462 
+Q 2150 2384 2406 2267 
+Q 2663 2150 2938 2029 
+Q 3213 1909 3488 1826 
+Q 3763 1744 4013 1734 
+L 4013 1194 
+Q 3813 1172 3502 1048 
+Q 3191 925 2694 663 
+Q 2294 450 1951 301 
+Q 1609 153 1254 76 
+Q 900 0 459 0 
+L -63 0 
+L -63 569 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-feed" d="M 2534 534 
+Q 2534 -1291 531 -1675 
+L 347 -1178 
+Q 1066 -1041 1494 -720 
+Q 1922 -400 2000 84 
+Q 1881 47 1725 19 
+Q 1569 -9 1450 -9 
+Q 309 -9 309 959 
+Q 309 1191 379 1423 
+Q 450 1656 586 1851 
+Q 722 2047 919 2165 
+Q 1116 2284 1366 2284 
+Q 1663 2284 1883 2137 
+Q 2103 1991 2247 1741 
+Q 2391 1491 2462 1178 
+Q 2534 866 2534 534 
+z
+M 1466 556 
+Q 1741 556 2013 638 
+Q 1981 1163 1818 1442 
+Q 1656 1722 1359 1722 
+Q 1153 1722 1039 1594 
+Q 925 1466 879 1292 
+Q 834 1119 834 978 
+Q 834 750 990 653 
+Q 1147 556 1466 556 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-fe81" d="M 1053 4694 
+Q 1097 4672 1144 4672 
+Q 1231 4672 1456 4875 
+L 1616 5019 
+L 1900 4763 
+L 1725 4597 
+Q 1559 4441 1436 4367 
+Q 1313 4294 1188 4294 
+Q 1069 4294 906 4366 
+L 503 4550 
+Q 459 4569 421 4581 
+Q 384 4594 350 4594 
+Q 281 4594 193 4537 
+Q 106 4481 -41 4334 
+L -219 4156 
+L -503 4413 
+L -322 4600 
+Q -119 4809 23 4895 
+Q 166 4981 294 4981 
+Q 378 4981 464 4953 
+Q 550 4925 650 4878 
+L 1053 4694 
+z
+M 1006 3897 
+L 1006 3 
+L 478 3 
+L 478 3897 
+L 1006 3897 
+z
+" transform="scale(0.015625)"/>
+        <path id="Vazirmatn-Regular-37" d="M 3319 4550 
+L 3319 4225 
+L 1434 0 
+L 825 0 
+L 2706 4075 
+L 244 4075 
+L 244 4550 
+L 3319 4550 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#Vazirmatn-Regular-fb93"/>
+       <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(94.189453 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe9f" transform="translate(127.880859 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(194.873047 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe95" transform="translate(221.728516 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(309.179688 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(343.408203 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feb4" transform="translate(369.580078 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(454.003906 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(520.996094 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(547.851562 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(612.744141 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(644.53125 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(697.851562 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(724.707031 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(772.558594 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(806.787109 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe81" transform="translate(851.220703 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(874.414062 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(913.037109 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-20" transform="translate(942.529297 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(969.384766 0)"/>
+       <use xlink:href="#Vazirmatn-Regular-37" transform="translate(996.533203 0)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 170.133031 417.456 
+L 779.005759 417.456 
+" style="fill: none; stroke: #8d9aa1; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M -88571.585388 401.592768 
+L 195.618981 401.592768 
+L 195.618981 373.148352 
+L -88571.585388 373.148352 
+z
+" clip-path="url(#pa38e6046d7)" style="fill: #cfe0e8; stroke: #12303f; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M -1 346.891968 
+L 419.761175 346.891968 
+L 419.761175 318.447552 
+L -1 318.447552 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 2.7,1.8; stroke-dashoffset: 0; stroke: #12303f; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 382.350055 332.66976 
+L 419.761175 332.66976 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke: #a8c8d8; stroke-width: 7.5"/>
+   </g>
+   <g id="patch_6">
+    <path d="M -1 292.191168 
+L 501.31934 292.191168 
+L 501.31934 263.746752 
+L -1 263.746752 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke-dasharray: 2.7,1.8; stroke-dashoffset: 0; stroke: #12303f; stroke-width: 0.9; stroke-linejoin: miter"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 497.074184 277.96896 
+L 501.31934 277.96896 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke: #7faec3; stroke-width: 7.5"/>
+   </g>
+   <g id="patch_7">
+    <path d="M -88571.585388 237.490368 
+L 452.649747 237.490368 
+L 452.649747 209.045952 
+L -88571.585388 209.045952 
+z
+" clip-path="url(#pa38e6046d7)" style="fill: #5794af; stroke: #12303f; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M -88571.585388 182.789568 
+L 515.879885 182.789568 
+L 515.879885 154.345152 
+L -88571.585388 154.345152 
+z
+" clip-path="url(#pa38e6046d7)" style="fill: #3a7794; stroke: #12303f; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M -88571.585388 128.088768 
+L 447.819449 128.088768 
+L 447.819449 99.644352 
+L -88571.585388 99.644352 
+z
+" clip-path="url(#pa38e6046d7)" style="fill: #255f7a; stroke: #12303f; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M -88571.585388 73.387968 
+L 614.138677 73.387968 
+L 614.138677 44.943552 
+L -88571.585388 44.943552 
+z
+" clip-path="url(#pa38e6046d7)" style="fill: #16465e; stroke: #12303f; stroke-width: 0.7; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_16">
+    <g id="patch_11">
+     <path d="M 565.46673 399.12192 
+L 769.872668 399.12192 
+Q 774.102668 399.12192 774.102668 394.89192 
+L 774.102668 384.914701 
+Q 774.102668 380.684701 769.872668 380.684701 
+L 565.46673 380.684701 
+Q 561.23673 380.684701 561.23673 384.914701 
+L 561.23673 394.89192 
+Q 561.23673 399.12192 565.46673 399.12192 
+z
+" style="fill: #eef4f7; stroke: #a8c8d8; stroke-width: 0.8; stroke-linejoin: miter"/>
+    </g>
+    <!-- ﺮﺑﺍﺮﺑ ۵۰٬۰۰۰ ﺯﺍ ﺶﯿﺑ — ﯽﮔﺭﺰﺑ ﯼﻪﺒﺗﺮﻣ ۴/۷ :ﻥﺎﺑﺩﺮﻧ ﯼﻪﻨﻣﺍﺩ -->
+    <g style="fill: #1c3b4a" transform="translate(565.46673 392.422951) scale(0.094 -0.094)">
+     <defs>
+      <path id="Vazirmatn-Regular-6f5" d="M 1888 497 
+Q 1809 225 1628 112 
+Q 1447 0 1206 0 
+Q 797 0 562 261 
+Q 328 522 328 1053 
+Q 328 1622 648 2258 
+Q 969 2894 1466 3572 
+L 1278 3756 
+L 1609 4209 
+Q 2297 3572 2698 3017 
+Q 3100 2463 3273 1977 
+Q 3447 1491 3447 1053 
+Q 3447 528 3222 264 
+Q 2997 0 2581 0 
+Q 2372 0 2170 112 
+Q 1969 225 1888 497 
+z
+M 847 1050 
+Q 847 819 944 678 
+Q 1041 538 1203 538 
+Q 1309 538 1396 583 
+Q 1484 628 1557 781 
+Q 1631 934 1691 1256 
+L 2078 1256 
+Q 2131 934 2207 781 
+Q 2284 628 2379 583 
+Q 2475 538 2581 538 
+Q 2759 538 2842 675 
+Q 2925 813 2925 1050 
+Q 2925 1569 2647 2116 
+Q 2369 2663 1866 3191 
+Q 1338 2494 1092 1969 
+Q 847 1444 847 1050 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-fb94" d="M 258 3806 
+L 258 4150 
+L 2633 5112 
+L 2633 4768 
+L 258 3806 
+z
+M 688 3031 
+Q 959 2841 1253 2630 
+Q 1547 2419 1801 2180 
+Q 2056 1941 2214 1670 
+Q 2372 1400 2372 1094 
+Q 2369 513 1970 256 
+Q 1572 0 700 0 
+L -63 0 
+L -63 569 
+L 697 569 
+Q 1303 569 1565 676 
+Q 1828 784 1828 1106 
+Q 1828 1313 1683 1509 
+Q 1538 1706 1308 1898 
+Q 1078 2091 815 2277 
+Q 553 2463 322 2644 
+Q 222 2725 169 2834 
+Q 116 2944 116 3053 
+Q 116 3181 186 3295 
+Q 256 3409 406 3469 
+L 2653 4381 
+L 2653 3828 
+L 688 3031 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-6f4" d="M 2566 3600 
+Q 2338 3600 2175 3486 
+Q 2013 3372 1925 3189 
+Q 1838 3006 1838 2794 
+Q 1838 2681 1947 2611 
+Q 2056 2541 2231 2506 
+Q 2406 2472 2600 2472 
+Q 2819 2472 3026 2511 
+Q 3234 2550 3369 2622 
+L 3441 2081 
+Q 3016 1931 2591 1931 
+Q 2222 1931 1862 2051 
+Q 1503 2172 1269 2409 
+Q 1334 1909 1350 1476 
+Q 1366 1044 1366 700 
+L 1366 0 
+L 828 0 
+L 828 709 
+Q 828 1756 720 2562 
+Q 613 3369 306 4000 
+L 800 4175 
+L 1050 3509 
+Q 1150 3247 1203 3126 
+Q 1256 3006 1292 2967 
+Q 1328 2928 1372 2906 
+Q 1372 3222 1509 3508 
+Q 1647 3794 1906 3973 
+Q 2166 4153 2531 4153 
+Q 2834 4153 3011 4064 
+Q 3188 3975 3303 3894 
+L 3128 3403 
+Q 3016 3472 2883 3536 
+Q 2750 3600 2566 3600 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-6f7" d="M 1616 0 
+Q 1491 850 1255 1604 
+Q 1019 2359 750 2951 
+Q 481 3544 253 3909 
+L 744 4175 
+Q 884 3922 1048 3570 
+Q 1213 3219 1375 2805 
+Q 1538 2391 1672 1952 
+Q 1806 1513 1884 1088 
+Q 1959 1513 2093 1952 
+Q 2228 2391 2390 2805 
+Q 2553 3219 2718 3570 
+Q 2884 3922 3025 4175 
+L 3516 3909 
+Q 3291 3544 3020 2951 
+Q 2750 2359 2515 1604 
+Q 2281 850 2153 0 
+L 1616 0 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-3a" d="M 453 2256 
+Q 453 2428 575 2551 
+Q 697 2675 869 2675 
+Q 1041 2675 1162 2551 
+Q 1284 2428 1284 2256 
+Q 1284 2084 1162 1962 
+Q 1041 1841 869 1841 
+Q 697 1841 575 1959 
+Q 453 2078 453 2256 
+z
+M 453 419 
+Q 453 591 575 714 
+Q 697 838 869 838 
+Q 1041 838 1162 714 
+Q 1284 591 1284 419 
+Q 1284 247 1162 125 
+Q 1041 3 869 3 
+Q 697 3 575 122 
+Q 453 241 453 419 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-fee7" d="M 447 0 
+L -63 0 
+L -63 569 
+L 441 569 
+Q 753 569 864 750 
+Q 975 931 975 1209 
+Q 975 1413 937 1644 
+Q 900 1875 856 2109 
+L 1400 2247 
+Q 1453 1997 1484 1756 
+Q 1516 1516 1516 1297 
+Q 1516 922 1412 628 
+Q 1309 334 1075 167 
+Q 841 0 447 0 
+z
+M 828 3716 
+L 1281 3263 
+L 828 2810 
+L 375 3263 
+L 828 3716 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-feae"/>
+     <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(38.623047 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(68.115234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(91.308594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(129.931641 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(159.423828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(186.279297 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(245.263672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-66c" transform="translate(287.451172 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(313.476562 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(355.664062 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(397.851562 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(440.039062 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(466.894531 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(501.123047 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(524.316406 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb6" transform="translate(551.171875 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(674.853516 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(711.132812 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(740.625 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-2014" transform="translate(767.480469 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(845.605469 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(872.460938 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fb94" transform="translate(937.353516 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(981.738281 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(1015.966797 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(1054.589844 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1084.082031 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(1110.9375 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(1181.494141 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(1233.349609 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(1268.017578 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(1298.681641 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(1337.304688 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1390.625 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(1417.480469 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-2f" transform="translate(1474.609375 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f7" transform="translate(1515.820312 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1574.707031 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-3a" transform="translate(1601.5625 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(1628.710938 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1696.386719 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(1722.558594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(1752.050781 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(1799.902344 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(1838.525391 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1867.041016 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(1893.896484 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(1964.453125 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(2016.308594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(2050 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(2103.320312 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(2126.513672 0)"/>
+    </g>
+   </g>
+   <g id="line2d_24">
+    <path d="M 382.350055 349.08 
+L 382.350055 316.25952 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke: #12303f; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 419.761175 349.08 
+L 419.761175 316.25952 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke: #12303f; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 497.074184 294.3792 
+L 497.074184 261.55872 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke: #12303f; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 501.31934 294.3792 
+L 501.31934 261.55872 
+" clip-path="url(#pa38e6046d7)" style="fill: none; stroke: #12303f; stroke-width: 1.1; stroke-linecap: square"/>
+   </g>
+   <g id="text_17">
+    <!-- ≈۰/۰۹ -->
+    <g style="fill: #12303f" transform="translate(212.532121 389.99556) scale(0.096 -0.096)">
+     <defs>
+      <path id="Vazirmatn-Regular-2248" d="M 322 2225 
+L 319 2816 
+Q 466 2975 673 3067 
+Q 881 3159 1084 3159 
+Q 1334 3166 1476 3098 
+Q 1619 3031 1816 2931 
+Q 2000 2838 2133 2775 
+Q 2266 2713 2497 2713 
+Q 2700 2713 2894 2819 
+Q 3088 2925 3234 3113 
+L 3238 2522 
+Q 3091 2363 2897 2272 
+Q 2703 2181 2500 2181 
+Q 2269 2181 2136 2242 
+Q 2003 2303 1819 2397 
+Q 1622 2497 1478 2564 
+Q 1334 2631 1084 2625 
+Q 881 2625 675 2519 
+Q 469 2413 322 2225 
+z
+M 319 922 
+L 316 1513 
+Q 463 1672 670 1762 
+Q 878 1853 1081 1853 
+Q 1331 1859 1473 1792 
+Q 1616 1725 1813 1625 
+Q 1997 1531 2130 1470 
+Q 2263 1409 2494 1409 
+Q 2697 1409 2890 1515 
+Q 3084 1622 3231 1809 
+L 3234 1216 
+Q 3088 1056 2894 965 
+Q 2700 875 2497 875 
+Q 2266 875 2133 936 
+Q 2000 997 1816 1091 
+Q 1619 1191 1475 1259 
+Q 1331 1328 1081 1322 
+Q 878 1322 672 1215 
+Q 466 1109 319 922 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-6f9" d="M 1469 1922 
+Q 888 1922 589 2130 
+Q 291 2338 291 2875 
+Q 291 3091 359 3316 
+Q 428 3541 562 3734 
+Q 697 3928 895 4047 
+Q 1094 4166 1353 4166 
+Q 1784 4166 2034 3936 
+Q 2284 3706 2396 3270 
+Q 2509 2834 2522 2213 
+Q 2528 1997 2533 1715 
+Q 2538 1434 2545 1128 
+Q 2553 822 2562 528 
+Q 2572 234 2581 0 
+L 2044 0 
+Q 2038 241 2031 534 
+Q 2025 828 2020 1118 
+Q 2016 1409 2012 1643 
+Q 2009 1878 2006 1994 
+Q 1913 1966 1753 1944 
+Q 1594 1922 1469 1922 
+z
+M 1453 2463 
+Q 1609 2463 1761 2486 
+Q 1913 2509 1988 2538 
+Q 1975 2831 1912 3078 
+Q 1850 3325 1714 3475 
+Q 1578 3625 1347 3625 
+Q 1147 3625 1030 3492 
+Q 913 3359 861 3182 
+Q 809 3006 809 2875 
+Q 809 2647 956 2555 
+Q 1103 2463 1453 2463 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-2248"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(56.347656 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-2f" transform="translate(98.535156 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(139.746094 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f9" transform="translate(181.933594 0)"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <!-- ﻒﻟﺍ ۲۹ ﺎﺗ ۱۱ -->
+    <g style="fill: #12303f" transform="translate(436.674315 335.29476) scale(0.096 -0.096)">
+     <defs>
+      <path id="Vazirmatn-Regular-fed2" d="M 4452 3972 
+L 4905 3519 
+L 4452 3066 
+L 3999 3519 
+L 4452 3972 
+z
+M 2672 569 
+L 2947 569 
+Q 2975 569 3122 569 
+Q 3269 569 3450 573 
+Q 3631 578 3759 584 
+Q 3572 803 3465 1018 
+Q 3359 1234 3359 1478 
+Q 3359 1672 3450 1869 
+Q 3541 2066 3694 2234 
+Q 3847 2403 4044 2504 
+Q 4241 2606 4450 2606 
+Q 4669 2606 4869 2504 
+Q 5069 2403 5223 2236 
+Q 5378 2069 5468 1869 
+Q 5559 1669 5559 1472 
+Q 5559 1225 5450 1014 
+Q 5341 803 5150 581 
+Q 5325 572 5462 570 
+Q 5600 569 5706 569 
+L 6009 569 
+L 6009 0 
+L 5713 0 
+Q 5594 0 5387 20 
+Q 5181 41 4934 91 
+Q 4688 141 4447 225 
+Q 4206 138 3903 89 
+Q 3600 41 3334 20 
+Q 3069 0 2941 0 
+L 2672 0 
+Q 1494 0 901 319 
+Q 309 638 309 1422 
+Q 309 1638 357 1844 
+Q 406 2050 484 2241 
+L 969 2059 
+Q 919 1922 886 1765 
+Q 853 1609 853 1469 
+Q 856 1103 1059 908 
+Q 1263 713 1666 641 
+Q 2069 569 2672 569 
+z
+M 4450 2053 
+Q 4331 2053 4201 1964 
+Q 4072 1875 3983 1740 
+Q 3894 1606 3894 1466 
+Q 3894 1322 3978 1172 
+Q 4063 1022 4192 897 
+Q 4322 772 4456 703 
+Q 4694 803 4861 1026 
+Q 5028 1250 5028 1472 
+Q 5028 1603 4936 1737 
+Q 4844 1872 4709 1962 
+Q 4575 2053 4450 2053 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-6f2" d="M 3019 4134 
+Q 3028 4022 3034 3912 
+Q 3041 3803 3041 3697 
+Q 3041 3300 2941 2984 
+Q 2841 2669 2598 2486 
+Q 2356 2303 1928 2303 
+Q 1806 2303 1636 2320 
+Q 1466 2338 1278 2394 
+Q 1344 1925 1355 1509 
+Q 1366 1094 1366 700 
+L 1366 0 
+L 828 0 
+L 828 709 
+Q 828 1756 720 2562 
+Q 613 3369 306 4000 
+L 797 4175 
+Q 869 3981 930 3836 
+Q 991 3691 1059 3497 
+Q 1197 3116 1386 2983 
+Q 1575 2850 1922 2850 
+Q 2169 2850 2300 2958 
+Q 2431 3066 2481 3234 
+Q 2531 3403 2531 3591 
+Q 2531 3728 2515 3853 
+Q 2500 3978 2481 4088 
+L 3019 4134 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-fed2"/>
+     <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(92.919922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(121.728516 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(144.921875 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f2" transform="translate(171.777344 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f9" transform="translate(224.121094 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(272.314453 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(299.169922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(325.341797 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(356.005859 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(382.861328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(411.71875 0)"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <!-- (ﻥﺎﯾﺯ ۲۵+) ۲۱۵ -->
+    <g style="fill: #12303f" transform="translate(518.232481 280.55871) scale(0.096 -0.096)">
+     <defs>
+      <path id="Vazirmatn-Regular-2b" d="M 1953 1388 
+L 1953 225 
+L 1478 225 
+L 1478 1388 
+L 438 1388 
+L 438 1863 
+L 1478 1863 
+L 1478 2938 
+L 1953 2938 
+L 1953 1863 
+L 2994 1863 
+L 2994 1388 
+L 1953 1388 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-28"/>
+     <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(34.179688 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(101.855469 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(128.027344 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(159.179688 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(193.408203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f2" transform="translate(220.263672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(272.607422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-2b" transform="translate(331.591797 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-29" transform="translate(385.205078 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(419.384766 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f2" transform="translate(446.240234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(498.583984 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(527.441406 0)"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <!-- &gt; ۶۸ -->
+    <g style="fill: #12303f" transform="translate(469.562887 225.89316) scale(0.096 -0.096)">
+     <defs>
+      <path id="Vazirmatn-Regular-3e" d="M 422 1213 
+L 2491 2034 
+L 422 2841 
+L 422 3438 
+L 3091 2256 
+L 3091 1800 
+L 422 616 
+L 422 1213 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-6f6" d="M 1491 1841 
+Q 919 1938 636 2200 
+Q 353 2463 353 2831 
+Q 353 3166 506 3466 
+Q 659 3766 945 3956 
+Q 1231 4147 1625 4147 
+Q 1853 4147 2036 4081 
+Q 2219 4016 2381 3891 
+L 2209 3397 
+Q 2091 3469 1962 3531 
+Q 1834 3594 1659 3594 
+Q 1450 3594 1278 3483 
+Q 1106 3372 1004 3201 
+Q 903 3031 903 2853 
+Q 903 2663 1136 2523 
+Q 1369 2384 1953 2334 
+Q 1969 2334 1978 2341 
+Q 2128 2434 2236 2500 
+Q 2344 2566 2455 2627 
+Q 2566 2688 2719 2766 
+L 2859 2259 
+Q 2197 1900 1692 1294 
+Q 1188 688 853 -69 
+L 366 122 
+Q 619 700 919 1123 
+Q 1219 1547 1491 1841 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-6f8" d="M 1616 4050 
+L 2153 4050 
+Q 2281 3200 2515 2445 
+Q 2750 1691 3020 1098 
+Q 3291 506 3516 141 
+L 3025 -125 
+Q 2884 128 2718 479 
+Q 2553 831 2390 1245 
+Q 2228 1659 2093 2098 
+Q 1959 2538 1884 2963 
+Q 1806 2538 1672 2098 
+Q 1538 1659 1375 1245 
+Q 1213 831 1048 479 
+Q 884 128 744 -125 
+L 253 141 
+Q 481 506 750 1098 
+Q 1019 1691 1255 2445 
+Q 1491 3200 1616 4050 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-3e"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(52.294922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f6" transform="translate(79.150391 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f8" transform="translate(127.832031 0)"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <!-- ﺭﻻﺩ ﺩﺭﺎﯿﻠﯿﻣ ۶ + ۳۵۰≈ -->
+    <g style="fill: #12303f" transform="translate(532.793025 170.62086) scale(0.096 -0.096)">
+     <defs>
+      <path id="Vazirmatn-Regular-6f3" d="M 3016 2303 
+Q 2806 2303 2615 2389 
+Q 2425 2475 2316 2675 
+Q 2209 2478 2015 2390 
+Q 1822 2303 1675 2303 
+Q 1569 2303 1486 2311 
+Q 1403 2319 1284 2359 
+Q 1319 2000 1336 1731 
+Q 1353 1463 1359 1220 
+Q 1366 978 1366 700 
+L 1366 0 
+L 828 0 
+L 828 709 
+Q 828 1756 720 2562 
+Q 613 3369 306 4000 
+L 797 4175 
+Q 894 3928 959 3751 
+Q 1025 3575 1116 3353 
+Q 1197 3153 1303 3003 
+Q 1409 2853 1638 2850 
+Q 1863 2850 1967 2987 
+Q 2072 3125 2075 3556 
+L 2078 3956 
+L 2578 3978 
+L 2591 3613 
+Q 2606 3166 2703 3008 
+Q 2800 2850 3009 2850 
+Q 3163 2850 3245 2954 
+Q 3328 3059 3362 3225 
+Q 3397 3391 3397 3572 
+Q 3397 3709 3383 3845 
+Q 3369 3981 3350 4088 
+L 3888 4134 
+Q 3906 3928 3906 3725 
+Q 3906 3350 3826 3025 
+Q 3747 2700 3553 2501 
+Q 3359 2303 3016 2303 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-fead"/>
+     <use xlink:href="#Vazirmatn-Regular-fefb" transform="translate(34.228516 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(91.064453 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(138.916016 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(165.771484 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(213.623047 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(247.851562 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(274.023438 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(310.302734 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(342.089844 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(378.369141 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(431.689453 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f6" transform="translate(458.544922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(507.226562 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-2b" transform="translate(534.082031 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(587.695312 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f3" transform="translate(614.550781 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(680.419922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(739.404297 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-2248" transform="translate(781.591797 0)"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <!-- &gt; ۶۰ -->
+    <g style="fill: #12303f" transform="translate(464.73259 116.49156) scale(0.096 -0.096)">
+     <use xlink:href="#Vazirmatn-Regular-3e"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(52.294922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f6" transform="translate(79.150391 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(127.832031 0)"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <!-- ﺭﻻﺩ ﺩﺭﺎﯿﻠﯿﻣ ۲۷۰ -->
+    <g style="fill: #12303f" transform="translate(631.051817 61.21926) scale(0.096 -0.096)">
+     <use xlink:href="#Vazirmatn-Regular-fead"/>
+     <use xlink:href="#Vazirmatn-Regular-fefb" transform="translate(34.228516 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(91.064453 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(138.916016 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(165.771484 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(213.623047 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(247.851562 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(274.023438 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(310.302734 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(342.089844 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(378.369141 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(431.689453 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f2" transform="translate(458.544922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f7" transform="translate(510.888672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(569.775391 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="line2d_28">
+    <path d="M 808.510816 27.439296 
+L 1049.171973 27.439296 
+" style="fill: none; stroke: #8d9aa1; stroke-width: 0.9; stroke-linecap: square"/>
+   </g>
+   <g id="text_24">
+    <!-- ﺎﻨﺒﻣ -->
+    <g style="fill: #12303f" transform="translate(1034.386036 22.384309) scale(0.1 -0.1)">
+     <use xlink:href="#Vazirmatn-Regular-fe8e"/>
+     <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(26.171875 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(59.863281 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(94.53125 0)"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <!-- ﺦﯾﺭﺎﺗ -->
+    <g style="fill: #12303f" transform="translate(895.2986 21.456184) scale(0.1 -0.1)">
+     <defs>
+      <path id="Vazirmatn-Regular-fea6" d="M 1804 4100 
+L 2257 3647 
+L 1804 3194 
+L 1351 3647 
+L 1804 4100 
+z
+M 313 -547 
+Q 313 -31 573 417 
+Q 834 866 1361 1202 
+Q 1888 1538 2681 1713 
+Q 2425 1819 2176 1919 
+Q 1928 2019 1742 2086 
+Q 1556 2153 1481 2153 
+Q 1291 2153 1130 2042 
+Q 969 1931 847 1775 
+L 763 1669 
+L 284 1903 
+L 331 1978 
+Q 538 2313 827 2514 
+Q 1116 2716 1484 2716 
+Q 1678 2716 1961 2597 
+Q 2244 2478 2575 2322 
+Q 2906 2166 3248 2042 
+Q 3591 1919 3903 1909 
+L 3903 1372 
+Q 3534 1347 3222 1284 
+Q 3222 953 3336 801 
+Q 3450 650 3672 609 
+Q 3894 569 4213 569 
+L 4466 569 
+L 4466 0 
+L 4222 0 
+Q 3738 0 3414 98 
+Q 3091 197 2930 456 
+Q 2769 716 2769 1194 
+Q 2097 1013 1670 739 
+Q 1244 466 1042 141 
+Q 841 -184 841 -519 
+Q 841 -1616 2441 -1616 
+Q 2794 -1616 3164 -1545 
+Q 3534 -1475 3856 -1325 
+L 3997 -1847 
+Q 3669 -2000 3248 -2079 
+Q 2828 -2159 2394 -2159 
+Q 1794 -2159 1323 -1989 
+Q 853 -1819 583 -1461 
+Q 313 -1103 313 -547 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-fea6"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(68.798828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(99.951172 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(134.179688 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(160.351562 0)"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <!-- ﯼﺮﺘﻓﺩ ﺵﺯﺭﺍ -->
+    <g style="fill: #1c3b4a" transform="translate(1004.495536 389.570013) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-fbfc"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(70.556641 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(109.179688 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fed3" transform="translate(145.019531 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(190.722656 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(238.574219 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb5" transform="translate(265.429688 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(383.59375 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(417.822266 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(452.050781 0)"/>
+    </g>
+   </g>
+   <g id="text_27">
+    <!-- ۱۴۰۵ ﺩﺍﺩﺮﺧ -->
+    <g style="fill: #1c3b4a" transform="translate(873.178319 389.385685) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-6f1"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(28.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(85.986328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(128.173828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(187.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(214.013672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(261.865234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(285.058594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(332.910156 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(371.533203 0)"/>
+    </g>
+   </g>
+   <g id="text_28">
+    <!-- ﯽﻨﯾﺰﮕﯾﺎﺟ ﯼﻪﻨﯾﺰﻫ -->
+    <g style="fill: #1c3b4a" transform="translate(986.567973 335.191604) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-fbfd"/>
+     <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(64.892578 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(98.583984 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(129.736328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fb95" transform="translate(168.359375 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(219.433594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(250.585938 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe9f" transform="translate(276.757812 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(343.75 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(370.605469 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(441.162109 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(493.017578 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(526.708984 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(557.861328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(596.484375 0)"/>
+    </g>
+   </g>
+   <g id="text_29">
+    <!-- ۱۴۰۵ ﺩﺍﺩﺮﺧ -->
+    <g style="fill: #1c3b4a" transform="translate(873.178319 334.684885) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-6f1"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(28.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(85.986328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(128.173828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(187.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(214.013672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(261.865234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(285.058594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(332.910156 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(371.533203 0)"/>
+    </g>
+   </g>
+   <g id="text_30">
+    <!-- ﯽﻤﺳﺭ ﯽﺳﺎﻨﺷﺭﺎﮐ -->
+    <g style="fill: #1c3b4a" transform="translate(988.124848 279.979679) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-fbfd"/>
+     <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(64.892578 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(122.216797 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(201.074219 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(235.302734 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(262.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(327.050781 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(405.908203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(432.080078 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(465.771484 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(544.628906 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(578.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(605.029297 0)"/>
+    </g>
+   </g>
+   <g id="text_31">
+    <!-- ۱۴۰۵ ﺩﺍﺩﺮﻣ ۱۱ -->
+    <g style="fill: #1c3b4a" transform="translate(866.513132 279.984085) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-6f1"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(28.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(85.986328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(128.173828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(187.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(214.013672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(261.865234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(285.058594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(332.910156 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(371.533203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(424.853516 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(451.708984 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(480.566406 0)"/>
+    </g>
+   </g>
+   <g id="text_32">
+    <!-- ﯽﻤﺳﺭ ﻡﻼﻋﺍ -->
+    <g style="fill: #1c3b4a" transform="translate(1006.191942 224.966035) scale(0.094 -0.094)">
+     <defs>
+      <path id="Vazirmatn-Regular-fee1" d="M 1113 934 
+Q 1288 1544 1570 1892 
+Q 1853 2241 2344 2241 
+Q 2675 2241 2934 2072 
+Q 3194 1903 3345 1608 
+Q 3497 1313 3497 928 
+Q 3497 506 3264 228 
+Q 3031 -50 2544 -50 
+Q 2359 -50 2170 9 
+Q 1981 69 1807 145 
+Q 1634 222 1490 281 
+Q 1347 341 1250 341 
+Q 1075 341 986 227 
+Q 897 113 867 -159 
+Q 838 -431 838 -913 
+Q 838 -1125 842 -1292 
+Q 847 -1459 858 -1621 
+Q 869 -1784 881 -1991 
+L 344 -1991 
+Q 328 -1703 318 -1451 
+Q 309 -1200 309 -944 
+Q 309 -594 329 -278 
+Q 350 38 426 292 
+Q 503 547 665 714 
+Q 828 881 1113 934 
+z
+M 2969 931 
+Q 2969 1253 2797 1470 
+Q 2625 1688 2356 1688 
+Q 2163 1688 2028 1567 
+Q 1894 1447 1803 1251 
+Q 1713 1056 1644 834 
+Q 1984 684 2211 598 
+Q 2438 513 2550 513 
+Q 2759 513 2864 627 
+Q 2969 741 2969 931 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-fefc" d="M 1819 647 
+Q 2053 713 2237 848 
+Q 2422 984 2528 1245 
+Q 2634 1506 2634 1950 
+L 2634 4303 
+L 3163 4303 
+L 3163 1784 
+Q 3163 1188 3306 878 
+Q 3450 569 3806 569 
+L 3919 569 
+L 3919 0 
+L 3797 0 
+Q 3378 0 3153 201 
+Q 2928 403 2825 763 
+Q 2563 375 2055 187 
+Q 1547 0 872 0 
+Q 744 0 609 6 
+Q 475 13 338 25 
+L 338 563 
+Q 531 550 665 542 
+Q 800 534 934 534 
+Q 1063 534 1158 536 
+Q 1253 538 1316 550 
+Q 1316 550 1269 833 
+Q 1222 1116 1112 1598 
+Q 1003 2081 814 2687 
+Q 625 3294 341 3938 
+L 825 4163 
+Q 1106 3497 1298 2869 
+Q 1491 2241 1605 1739 
+Q 1719 1238 1769 942 
+Q 1819 647 1819 647 
+z
+" transform="scale(0.015625)"/>
+      <path id="Vazirmatn-Regular-fecb" d="M 897 569 
+Q 756 744 657 998 
+Q 559 1253 559 1509 
+Q 559 1844 734 2116 
+Q 909 2388 1193 2547 
+Q 1478 2706 1806 2706 
+Q 2303 2706 2872 2319 
+L 2663 1853 
+Q 2175 2141 1841 2141 
+Q 1553 2141 1331 1962 
+Q 1109 1784 1109 1488 
+Q 1109 1256 1214 1078 
+Q 1319 900 1437 801 
+Q 1556 703 1597 703 
+Q 1653 703 1706 719 
+L 3028 1034 
+L 3028 466 
+Q 2250 228 1589 114 
+Q 928 0 278 0 
+L -63 0 
+L -63 569 
+L 897 569 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#Vazirmatn-Regular-fbfd"/>
+     <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(64.892578 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(122.216797 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(201.074219 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(235.302734 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee1" transform="translate(262.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fefc" transform="translate(321.630859 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fecb" transform="translate(381.884766 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(434.033203 0)"/>
+    </g>
+   </g>
+   <g id="text_33">
+    <!-- ۱۴۰۵ ﺭﻮﯾﺮﻬﺷ -->
+    <g style="fill: #1c3b4a" transform="translate(868.2301 225.278879) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-6f1"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(28.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(85.986328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(128.173828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(187.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(214.013672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(248.242188 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(292.724609 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(323.876953 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feec" transform="translate(362.5 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(412.304688 0)"/>
+    </g>
+   </g>
+   <g id="text_34">
+    <!-- ﻪﯿﻟﻭﺍ ﺩﺭﻭﺁﺮﺑ -->
+    <g style="fill: #1c3b4a" transform="translate(1008.819536 171.018704) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-feea"/>
+     <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(51.855469 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(88.134766 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(116.943359 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(161.376953 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(184.570312 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(211.425781 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(259.277344 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(293.505859 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe81" transform="translate(337.939453 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(361.132812 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(399.755859 0)"/>
+    </g>
+   </g>
+   <g id="text_35">
+    <!-- ۱۴۰۵ ﺩﺍﺩﺮﺧ -->
+    <g style="fill: #1c3b4a" transform="translate(873.178319 170.582485) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-6f1"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(28.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(85.986328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(128.173828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(187.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(214.013672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(261.865234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(285.058594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(332.910156 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(371.533203 0)"/>
+    </g>
+   </g>
+   <g id="text_36">
+    <!-- ﯽﻧﺎﺘﺳﺍ ﺵﺭﺍﺰﮔ -->
+    <g style="fill: #1c3b4a" transform="translate(998.135848 116.386201) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-fbfd"/>
+     <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(64.892578 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(93.408203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(119.580078 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(155.419922 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(234.277344 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(257.470703 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb5" transform="translate(284.326172 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(402.490234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(436.71875 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(459.912109 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fb94" transform="translate(498.535156 0)"/>
+    </g>
+   </g>
+   <g id="text_37">
+    <!-- ۱۴۰۵ ﺩﺍﺩﺮﺧ -->
+    <g style="fill: #1c3b4a" transform="translate(873.178319 115.881685) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-6f1"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(28.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(85.986328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(128.173828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(187.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(214.013672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(261.865234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(285.058594 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(332.910156 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(371.533203 0)"/>
+    </g>
+   </g>
+   <g id="text_38">
+    <!-- ﯽﺘﻟﻭﺩ ﺩﺭﻭﺁﺮﺑ -->
+    <g style="fill: #1c3b4a" transform="translate(1005.316567 61.617104) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-fbfd"/>
+     <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(64.892578 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(100.732422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(129.541016 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(173.974609 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(221.826172 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(248.681641 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(296.533203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(330.761719 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe81" transform="translate(375.195312 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(398.388672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(437.011719 0)"/>
+    </g>
+   </g>
+   <g id="text_39">
+    <!-- ۱۴۰۵ ﻦﯾﺩﺭﻭﺮﻓ -->
+    <g style="fill: #1c3b4a" transform="translate(864.755038 61.365213) scale(0.094 -0.094)">
+     <use xlink:href="#Vazirmatn-Regular-6f1"/>
+     <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(28.857422 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(85.986328 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(128.173828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-20" transform="translate(187.158203 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fee6" transform="translate(214.013672 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(286.132812 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(317.285156 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(365.136719 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(399.365234 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(443.798828 0)"/>
+     <use xlink:href="#Vazirmatn-Regular-fed3" transform="translate(482.421875 0)"/>
+    </g>
+   </g>
+  </g>
+  <g id="text_40">
+   <!-- (ﺦﯾﺭﺎﺗ ﻭ ﺎﻨﺒﻣ ﻥﻮﺘﺳ ﻭﺩ ﺎﺑ) ﺭﻮﺸﮐ ﺎﺗ ﯽﯾﺍﺭﺍﺩ ﮏﯾ ﺯﺍ :ﮓﻨﺟ ﯼﮊﺮﻧﺍ ﺕﺭﺎﺴﺧ ﯼﺎﻫﻪﻨﻣﺍﺩ ﻥﺎﺑﺩﺮﻧ .۱ ﻞﮑﺷ -->
+   <g style="fill: #12303f" transform="translate(671.951125 447.311619) scale(0.11 -0.11)">
+    <defs>
+     <path id="Vazirmatn-Regular-fb8a" d="M 1213 3787 
+L 1635 3365 
+L 1213 2943 
+L 791 3365 
+L 1213 3787 
+z
+M 1747 2996 
+L 2169 2574 
+L 1747 2152 
+L 1325 2574 
+L 1747 2996 
+z
+M 679 2996 
+L 1100 2574 
+L 679 2152 
+L 257 2574 
+L 679 2996 
+z
+M 147 -1681 
+L -38 -1184 
+Q 725 -1019 1037 -605 
+Q 1350 -191 1350 375 
+Q 1350 641 1292 933 
+Q 1234 1225 1131 1528 
+L 1650 1703 
+Q 1875 1063 1875 469 
+Q 1875 -53 1692 -498 
+Q 1509 -944 1126 -1255 
+Q 744 -1566 147 -1681 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fede" d="M 1966 -1550 
+Q 1384 -1550 1018 -1342 
+Q 653 -1134 481 -762 
+Q 309 -391 309 100 
+Q 309 431 378 779 
+Q 447 1128 566 1459 
+L 1063 1259 
+Q 972 972 909 669 
+Q 847 366 847 81 
+Q 847 -425 1105 -706 
+Q 1363 -988 1966 -988 
+Q 2525 -988 2808 -681 
+Q 3091 -375 3091 306 
+L 3091 4303 
+L 3619 4303 
+L 3619 1278 
+Q 3619 928 3748 748 
+Q 3878 569 4256 569 
+L 4350 569 
+L 4350 0 
+L 4263 0 
+Q 3988 0 3869 54 
+Q 3750 109 3616 238 
+Q 3616 -656 3194 -1103 
+Q 2772 -1550 1966 -1550 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Vazirmatn-Regular-28"/>
+    <use xlink:href="#Vazirmatn-Regular-fea6" transform="translate(34.179688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(102.978516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(134.130859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(168.359375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(194.53125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(225.195312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(252.050781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(296.484375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(323.339844 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(349.511719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(383.203125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(417.871094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(471.191406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(498.046875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(565.722656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(610.205078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(646.044922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(724.902344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(751.757812 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(796.191406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(844.042969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(870.898438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(897.070312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-29" transform="translate(926.5625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(960.742188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(987.597656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(1021.826172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb8" transform="translate(1066.308594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(1150.732422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1195.117188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1221.972656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(1248.144531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1278.808594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(1305.664062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(1370.556641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(1401.708984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(1424.902344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(1459.130859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(1482.324219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1530.175781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb8f" transform="translate(1557.03125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(1651.220703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1682.373047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(1709.228516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(1743.457031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1766.650391 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-3a" transform="translate(1793.505859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb93" transform="translate(1820.654297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(1914.84375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe9f" transform="translate(1948.535156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2015.527344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(2042.382812 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb8a" transform="translate(2112.939453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(2147.167969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(2185.791016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(2214.306641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2237.5 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe95" transform="translate(2264.355469 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(2351.806641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(2386.035156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb4" transform="translate(2412.207031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(2496.630859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2563.623047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(2590.478516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(2661.035156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(2687.207031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(2756.689453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(2808.544922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(2842.236328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(2895.556641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(2918.75 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2966.601562 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(2993.457031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(3061.132812 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(3087.304688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(3116.796875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(3164.648438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(3203.271484 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3231.787109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(3258.642578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(3285.791016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3314.648438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fede" transform="translate(3341.503906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb91" transform="translate(3408.496094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(3459.570312 0)"/>
+   </g>
+  </g>
+  <g id="text_41">
+   <!-- .ﻥﺍﺮﮕﺸﻫﻭﮋﭘ ﺯﺍ ﻪﺒﺳﺎﺤﻣ ﻭ ﯽﻫﺩﺐﯿﺗﺮﺗ ؛ﺖﻟﻭﺩ ﯼﻮﮕﻨﺨﺳ ﻭ ﺖﻤﺻ ﺕﺭﺍﺯﻭ ﺩﺭﻭﺁﺮﺑ ؛(۱۴۰۵ ﺩﺍﺩﺮﺧ) ﺖﻤﺻ ﯽﻧﺎﺘﺳﺍ ﯼﺎﻫﺵﺭﺍﺰﮔ ؛(۱۴۰۵ ﺭﻮﯾﺮﻬﺷ) ﺮﯿﻧﺍﻮﺗ ﯽﻤﺳﺭ ﻡﻼﻋﺍ ؛(۱۴۰۵ ﺩﺍﺩﺮﻣ ۱۱) ﻪﮐﺭﺎﺒﻣ ﺩﻻﻮﻓ ﯽﻣﻮﻤﻋ ﻊﻤﺠﻣ ﯼﻪﺑﻮﺼﻣ ؛(۱۴۰۵) ﻝﺍﺪﮐ ﯼﻪﻧﺎﻣﺎﺳ ﯽﺘﮐﺮﺷ ﯼﺎﻫﺎﺸﻓﺍ :ﺬﺧﺄﻣ -->
+   <g style="fill: #3c4a52" transform="translate(272.842938 470.633781) scale(0.082 -0.082)">
+    <defs>
+     <path id="Vazirmatn-Regular-fb8b" d="M 1213 3787 
+L 1635 3365 
+L 1213 2943 
+L 791 3365 
+L 1213 3787 
+z
+M 1747 2996 
+L 2169 2574 
+L 1747 2152 
+L 1325 2574 
+L 1747 2996 
+z
+M 679 2996 
+L 1100 2574 
+L 679 2152 
+L 257 2574 
+L 679 2996 
+z
+M 2450 0 
+Q 2234 0 2089 58 
+Q 1944 116 1863 181 
+Q 1816 -228 1636 -611 
+Q 1456 -994 1097 -1278 
+Q 738 -1563 147 -1678 
+L -38 -1184 
+Q 725 -1019 1037 -605 
+Q 1350 -191 1350 375 
+Q 1350 641 1292 933 
+Q 1234 1225 1131 1528 
+L 1650 1703 
+L 1819 1050 
+Q 1888 788 2038 678 
+Q 2188 569 2416 569 
+L 2534 569 
+L 2534 0 
+L 2450 0 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fb58" d="M -69 569 
+L 609 569 
+Q 922 569 1033 750 
+Q 1144 931 1144 1209 
+Q 1144 1413 1106 1644 
+Q 1069 1875 1025 2109 
+L 1569 2247 
+Q 1622 1997 1653 1756 
+Q 1684 1516 1684 1297 
+Q 1684 922 1581 628 
+Q 1478 334 1243 167 
+Q 1009 0 616 0 
+L -69 0 
+L -69 569 
+z
+M 1063 -394 
+L 1484 -816 
+L 1063 -1238 
+L 641 -816 
+L 1063 -394 
+z
+M -6 -394 
+L 416 -816 
+L -6 -1238 
+L -428 -816 
+L -6 -394 
+z
+M 528 -1184 
+L 950 -1606 
+L 528 -2028 
+L 106 -1606 
+L 528 -1184 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fea4" d="M 4013 1734 
+L 4013 1194 
+Q 3878 1181 3697 1126 
+Q 3516 1072 3313 975 
+Q 3319 716 3562 642 
+Q 3806 569 4253 569 
+L 4425 569 
+L 4425 0 
+L 4241 0 
+Q 3603 0 3286 169 
+Q 2969 338 2906 775 
+Q 2288 438 1708 219 
+Q 1128 0 459 0 
+L -63 0 
+L -63 569 
+L 469 569 
+Q 834 569 1140 634 
+Q 1447 700 1739 815 
+Q 2031 931 2351 1089 
+Q 2672 1247 3069 1428 
+Q 2847 1509 2609 1604 
+Q 2372 1700 2158 1784 
+Q 1944 1869 1784 1923 
+Q 1625 1978 1559 1978 
+Q 1369 1978 1223 1867 
+Q 1078 1756 956 1600 
+L 872 1494 
+L 394 1728 
+L 441 1803 
+Q 647 2138 920 2339 
+Q 1194 2541 1563 2541 
+Q 1716 2541 1933 2462 
+Q 2150 2384 2406 2267 
+Q 2663 2150 2938 2029 
+Q 3213 1909 3488 1826 
+Q 3763 1744 4013 1734 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fe90" d="M 2900 -508 
+L 3353 -961 
+L 2900 -1414 
+L 2447 -961 
+L 2900 -508 
+z
+M 4734 1847 
+L 5256 1909 
+L 5309 1178 
+Q 5328 881 5479 725 
+Q 5631 569 5934 569 
+L 6009 569 
+L 6009 0 
+L 5934 0 
+Q 5581 0 5354 133 
+Q 5128 266 4981 559 
+Q 4722 259 4317 129 
+Q 3913 0 3194 0 
+L 2672 0 
+Q 1494 0 901 319 
+Q 309 638 309 1422 
+Q 309 1638 357 1844 
+Q 406 2050 484 2241 
+L 969 2059 
+Q 919 1922 886 1765 
+Q 853 1609 853 1469 
+Q 856 1103 1059 908 
+Q 1263 713 1666 641 
+Q 2069 569 2672 569 
+L 3194 569 
+Q 3941 569 4352 725 
+Q 4763 881 4763 1294 
+Q 4763 1422 4755 1569 
+Q 4747 1716 4734 1847 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-61b" d="M 1356 3053 
+Q 1138 2853 1011 2656 
+Q 884 2459 884 2175 
+Q 1106 2175 1192 2078 
+Q 1278 1981 1278 1788 
+Q 1278 1597 1181 1486 
+Q 1084 1375 891 1375 
+Q 644 1375 536 1512 
+Q 428 1650 428 1881 
+Q 428 2306 628 2636 
+Q 828 2966 1150 3216 
+L 1356 3053 
+z
+M 453 416 
+Q 453 588 575 711 
+Q 697 834 869 834 
+Q 1041 834 1162 711 
+Q 1284 588 1284 416 
+Q 1284 244 1162 122 
+Q 1041 0 869 0 
+Q 697 0 575 119 
+Q 453 238 453 416 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-feca" d="M 1497 869 
+Q 1363 988 1195 1164 
+Q 1028 1341 872 1531 
+Q 716 1722 614 1886 
+Q 513 2050 513 2141 
+Q 513 2269 647 2372 
+Q 781 2475 1001 2547 
+Q 1222 2619 1478 2658 
+Q 1734 2697 1978 2697 
+Q 2219 2697 2475 2658 
+Q 2731 2619 2951 2547 
+Q 3172 2475 3309 2372 
+Q 3447 2269 3447 2141 
+Q 3447 2050 3342 1879 
+Q 3238 1709 3075 1511 
+Q 2913 1313 2736 1131 
+Q 2559 950 2413 831 
+Q 2675 669 2984 619 
+Q 3294 569 3719 569 
+L 3906 569 
+L 3906 0 
+L 3719 0 
+Q 3403 0 3118 39 
+Q 2834 78 2548 192 
+Q 2263 306 1938 531 
+Q 1438 250 1139 -40 
+Q 841 -331 841 -659 
+Q 841 -1097 1178 -1356 
+Q 1516 -1616 2194 -1616 
+Q 2466 -1616 2753 -1570 
+Q 3041 -1525 3322 -1431 
+L 3444 -1953 
+Q 3178 -2050 2854 -2104 
+Q 2531 -2159 2178 -2159 
+Q 1619 -2159 1197 -1993 
+Q 775 -1828 542 -1493 
+Q 309 -1159 309 -659 
+Q 309 -372 426 -140 
+Q 544 91 726 275 
+Q 909 459 1114 606 
+Q 1319 753 1497 869 
+z
+M 1978 2159 
+Q 1838 2159 1577 2136 
+Q 1316 2113 1084 2034 
+Q 1288 1781 1494 1576 
+Q 1700 1372 1839 1251 
+Q 1978 1131 1978 1131 
+Q 1978 1131 2118 1251 
+Q 2259 1372 2468 1576 
+Q 2678 1781 2878 2034 
+Q 2647 2113 2384 2136 
+Q 2122 2159 1978 2159 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fea0" d="M 2084 -508 
+L 2537 -961 
+L 2084 -1414 
+L 1631 -961 
+L 2084 -508 
+z
+M 4013 1734 
+L 4013 1194 
+Q 3878 1181 3697 1126 
+Q 3516 1072 3313 975 
+Q 3319 716 3562 642 
+Q 3806 569 4253 569 
+L 4425 569 
+L 4425 0 
+L 4241 0 
+Q 3603 0 3286 169 
+Q 2969 338 2906 775 
+Q 2288 438 1708 219 
+Q 1128 0 459 0 
+L -63 0 
+L -63 569 
+L 469 569 
+Q 834 569 1140 634 
+Q 1447 700 1739 815 
+Q 2031 931 2351 1089 
+Q 2672 1247 3069 1428 
+Q 2847 1509 2609 1604 
+Q 2372 1700 2158 1784 
+Q 1944 1869 1784 1923 
+Q 1625 1978 1559 1978 
+Q 1369 1978 1223 1867 
+Q 1078 1756 956 1600 
+L 872 1494 
+L 394 1728 
+L 441 1803 
+Q 647 2138 920 2339 
+Q 1194 2541 1563 2541 
+Q 1716 2541 1933 2462 
+Q 2150 2384 2406 2267 
+Q 2663 2150 2938 2029 
+Q 3213 1909 3488 1826 
+Q 3763 1744 4013 1734 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-febc" d="M 2741 0 
+L 2575 0 
+Q 1913 0 1566 125 
+Q 1219 250 1075 475 
+Q 894 228 667 114 
+Q 441 0 66 0 
+L -63 0 
+L -59 569 
+L 66 569 
+Q 503 569 654 755 
+Q 806 941 806 1294 
+Q 806 1444 795 1572 
+Q 784 1700 778 1847 
+L 1300 1909 
+L 1347 1178 
+Q 1363 969 1434 817 
+Q 1506 666 1656 666 
+Q 2216 1616 2752 2067 
+Q 3288 2519 3825 2519 
+Q 4181 2519 4457 2364 
+Q 4734 2209 4890 1943 
+Q 5047 1678 5047 1344 
+Q 5044 941 4806 628 
+Q 4897 606 5042 587 
+Q 5188 569 5472 569 
+L 5566 569 
+L 5566 0 
+L 5475 0 
+Q 5078 0 4820 81 
+Q 4563 163 4388 306 
+Q 4131 163 3712 81 
+Q 3294 0 2741 0 
+z
+M 3850 1950 
+Q 3097 1950 2222 569 
+L 2728 569 
+Q 3619 569 4056 747 
+Q 4494 925 4494 1313 
+Q 4494 1588 4317 1769 
+Q 4141 1950 3850 1950 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fedd" d="M 3619 363 
+Q 3619 -625 3197 -1087 
+Q 2775 -1550 1966 -1550 
+Q 1384 -1550 1018 -1342 
+Q 653 -1134 481 -762 
+Q 309 -391 309 100 
+Q 309 431 378 779 
+Q 447 1128 566 1459 
+L 1063 1259 
+Q 972 972 909 669 
+Q 847 366 847 81 
+Q 847 -425 1105 -706 
+Q 1363 -988 1966 -988 
+Q 2525 -988 2808 -681 
+Q 3091 -375 3091 306 
+L 3091 4303 
+L 3619 4303 
+L 3619 363 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-feaa" d="M 2109 1138 
+Q 2109 1219 2073 1348 
+Q 2038 1478 1988 1591 
+L 1434 2844 
+L 1922 3072 
+L 2631 1403 
+Q 2775 1066 2883 884 
+Q 2991 703 3095 636 
+Q 3200 569 3334 569 
+L 3466 569 
+L 3466 0 
+L 3334 0 
+Q 3088 0 2933 59 
+Q 2778 119 2665 237 
+Q 2553 356 2438 538 
+Q 2219 263 1880 133 
+Q 1541 3 1034 3 
+Q 816 3 641 23 
+Q 466 44 309 81 
+L 309 647 
+Q 669 563 988 563 
+Q 2109 563 2109 1138 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-feac" d="M 1580 4420 
+L 2033 3967 
+L 1580 3514 
+L 1127 3967 
+L 1580 4420 
+z
+M 2109 1138 
+Q 2109 1219 2073 1348 
+Q 2038 1478 1988 1591 
+L 1434 2844 
+L 1922 3072 
+L 2631 1403 
+Q 2775 1066 2883 884 
+Q 2991 703 3095 636 
+Q 3200 569 3334 569 
+L 3466 569 
+L 3466 0 
+L 3334 0 
+Q 3088 0 2933 59 
+Q 2778 119 2665 237 
+Q 2553 356 2438 538 
+Q 2219 263 1880 133 
+Q 1541 3 1034 3 
+Q 816 3 641 23 
+Q 466 44 309 81 
+L 309 647 
+Q 669 563 988 563 
+Q 2109 563 2109 1138 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fe84" d="M 453 4543 
+Q 347 4624 272 4730 
+Q 197 4837 197 5021 
+Q 197 5290 382 5462 
+Q 568 5634 806 5634 
+Q 1012 5634 1184 5534 
+L 1187 5224 
+Q 1090 5274 1006 5286 
+Q 922 5299 850 5299 
+Q 715 5299 601 5218 
+Q 487 5137 487 4981 
+Q 490 4884 585 4791 
+Q 681 4699 856 4724 
+Q 862 4724 870 4727 
+Q 878 4731 887 4734 
+L 1300 4884 
+L 1343 4574 
+L 153 4103 
+L 109 4409 
+L 453 4543 
+z
+M 478 3897 
+L 1006 3897 
+L 1006 1316 
+Q 1006 875 1168 722 
+Q 1331 569 1659 569 
+L 1738 569 
+L 1738 0 
+L 1659 0 
+Q 1063 0 770 315 
+Q 478 631 478 1316 
+L 478 3897 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Vazirmatn-Regular-2e"/>
+    <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(27.148438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(94.824219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(118.017578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb95" transform="translate(156.640625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb8" transform="translate(207.714844 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(292.138672 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(361.621094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb8b" transform="translate(406.054688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb58" transform="translate(444.677734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(475.830078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(502.685547 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(536.914062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(560.107422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(586.962891 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(638.818359 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(673.486328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(752.34375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea4" transform="translate(778.515625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(846.679688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(900 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(926.855469 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(971.289062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(998.144531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(1063.037109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(1132.519531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe90" transform="translate(1180.371094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(1273.291016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(1309.570312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(1340.234375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(1378.857422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1409.521484 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-61b" transform="translate(1436.376953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(1463.525391 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(1556.445312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(1585.253906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(1629.6875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1677.539062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(1704.394531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(1774.951172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb95" transform="translate(1819.433594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(1870.507812 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea8" transform="translate(1904.199219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(1972.363281 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2051.220703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(2078.076172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2122.509766 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(2149.365234 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(2242.285156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-febb" transform="translate(2299.609375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2383.251953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe95" transform="translate(2410.107422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(2497.558594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(2531.787109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(2554.980469 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(2589.208984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2633.642578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(2660.498047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(2708.349609 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(2742.578125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe81" transform="translate(2787.011719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(2810.205078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(2848.828125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2878.320312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-61b" transform="translate(2905.175781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-28" transform="translate(2932.324219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(2966.503906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(2995.361328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(3052.490234 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(3094.677734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3153.662109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(3180.517578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(3228.369141 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(3251.5625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(3299.414062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(3338.037109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-29" transform="translate(3405.029297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3439.208984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(3466.064453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(3558.984375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-febb" transform="translate(3616.308594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3699.951172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(3726.806641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(3791.699219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(3820.214844 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(3846.386719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(3882.226562 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(3961.083984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3984.277344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(4011.132812 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(4081.689453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(4107.861328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb5" transform="translate(4177.34375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(4295.507812 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(4329.736328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb0" transform="translate(4352.929688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb94" transform="translate(4391.552734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(4435.9375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-61b" transform="translate(4462.792969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-28" transform="translate(4489.941406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(4524.121094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(4552.978516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(4610.107422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(4652.294922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(4711.279297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(4738.134766 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(4772.363281 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(4816.845703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(4847.998047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feec" transform="translate(4886.621094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(4936.425781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-29" transform="translate(5015.283203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5049.462891 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(5076.318359 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(5114.941406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(5151.220703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(5179.736328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(5202.929688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(5247.412109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5278.076172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(5304.931641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(5369.824219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(5427.148438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(5506.005859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5540.234375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee1" transform="translate(5567.089844 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fefc" transform="translate(5626.5625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fecb" transform="translate(5686.816406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(5738.964844 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5762.158203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-61b" transform="translate(5789.013672 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-28" transform="translate(5816.162109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(5850.341797 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(5879.199219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(5936.328125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(5978.515625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6037.5 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(6064.355469 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(6112.207031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(6135.400391 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(6183.251953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(6221.875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6275.195312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(6302.050781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(6330.908203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-29" transform="translate(6359.765625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6393.945312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(6420.800781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(6472.65625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(6517.041016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(6551.269531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(6577.441406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(6612.109375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6665.429688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(6692.285156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fefb" transform="translate(6740.136719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(6796.972656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fed3" transform="translate(6841.455078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6887.158203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(6914.013672 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(6978.90625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(7032.226562 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(7076.708984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fecb" transform="translate(7134.033203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7186.181641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feca" transform="translate(7213.037109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(7273.095703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea0" transform="translate(7330.419922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(7398.583984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7451.904297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(7478.759766 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(7549.316406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(7601.171875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(7630.664062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-febc" transform="translate(7675.146484 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(7761.132812 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7814.453125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-61b" transform="translate(7841.308594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-28" transform="translate(7868.457031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(7902.636719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f4" transform="translate(7931.494141 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(7988.623047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(8030.810547 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-29" transform="translate(8089.794922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8123.974609 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fedd" transform="translate(8150.830078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(8214.794922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaa" transform="translate(8237.988281 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(8291.162109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8335.546875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(8362.402344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(8432.958984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(8484.814453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(8513.330078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(8539.501953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(8592.822266 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(8618.994141 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8697.851562 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(8724.707031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(8789.599609 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(8825.439453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(8869.824219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(8908.447266 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8987.304688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(9014.160156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(9084.716797 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(9110.888672 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(9180.371094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb8" transform="translate(9206.542969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fed3" transform="translate(9290.966797 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(9336.669922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(9359.863281 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-3a" transform="translate(9386.71875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feac" transform="translate(9413.867188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea7" transform="translate(9467.041016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe84" transform="translate(9534.033203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(9560.205078 0)"/>
+   </g>
+  </g>
+  <g id="text_42">
+   <!-- .ﺪﻧﺍﻪﺘﻓﺭ ﺭﺎﮐﻪﺑ ﯼﺮﺒﺟ ﻊﻤﺟ ﻥﻭﺪﺑ ﻡﺎﻗﺭﺍ ؛ﻩﺪﺷ ﯽﺸﯾﺎﻤﻧ ﻊﯿﻤﺠﺗ ﺖﻤﻫ ﺎﺑ ﺱﺎﯿﻘﻣ ﻦﯾﺍ ﺭﺩ ﻭ ﺖﺳﺍ ﯼﺯﺭﺍ ﺭﻻﺩ ﺩﺭﺎﯿﻠﯿﻣ ۶ ﯼﻩﻭﻼﻋﻪﺑ ﯽﻟﺎﯾﺭ ﺖﻤﻫ ۳۵۰ ﻞﻣﺎﺷ ۵ ﯼﻪﻠﭘ .(ﯼﺯﺭﺍ ﺖﻤﻫ ۱۷/۷ ﺎﺗ ۱۰/۳ + ﯽﻟﺎﯾﺭ ﺖﻤﻫ ۱۱) ﺪﯾﺁﯽﻣ ۱ ﻝﻭﺪﺟ ﺭﺍﺩﺪﻨﺳ ﺥﺮﻧ ﺭﺎﻬﭼ ﺎﺑ ﻭﺭﻮﯾ ﻥﻮﯿﻠﯿﻣ ۶۵ ﺮﯿﻌﺴﺗ ﺯﺍ ۲ ﯼﻪﻠﭘ ﯼﺎﻫﻥﺍﺮﮐ :ﻒﻟﺍ -->
+   <g style="fill: #5a6a73" transform="translate(260.980844 484.688988) scale(0.076 -0.076)">
+    <defs>
+     <path id="Vazirmatn-Regular-fed7" d="M 1882 4657 
+L 2319 4223 
+L 1882 3782 
+L 1448 4223 
+L 1882 4657 
+z
+M 844 4657 
+L 1282 4223 
+L 844 3782 
+L 410 4223 
+L 844 4657 
+z
+M 1125 569 
+Q 1478 569 1695 609 
+Q 1913 650 2014 789 
+Q 2116 928 2116 1222 
+Q 1963 1175 1805 1150 
+Q 1647 1125 1466 1125 
+Q 403 1125 403 1997 
+Q 403 2297 523 2597 
+Q 644 2897 878 3098 
+Q 1113 3300 1447 3300 
+Q 1753 3300 1973 3144 
+Q 2194 2988 2336 2723 
+Q 2478 2459 2547 2126 
+Q 2616 1794 2616 1441 
+Q 2616 975 2533 689 
+Q 2450 403 2269 254 
+Q 2088 106 1797 53 
+Q 1506 0 1088 0 
+L -63 0 
+L -63 569 
+L 1125 569 
+z
+M 1509 1663 
+Q 1653 1663 1795 1689 
+Q 1938 1716 2081 1756 
+Q 2056 1978 1989 2206 
+Q 1922 2434 1790 2589 
+Q 1659 2744 1441 2744 
+Q 1247 2744 1130 2622 
+Q 1013 2500 961 2331 
+Q 909 2163 909 2019 
+Q 909 1803 1064 1733 
+Q 1219 1663 1509 1663 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fee9" d="M 1066 2313 
+L 944 2422 
+L 1275 2850 
+Q 1688 2509 2002 2214 
+Q 2316 1919 2494 1636 
+Q 2672 1353 2672 1050 
+Q 2672 575 2347 294 
+Q 2022 13 1491 13 
+Q 947 13 628 280 
+Q 309 547 309 959 
+Q 309 1322 503 1636 
+Q 697 1950 1066 2313 
+z
+M 2141 1075 
+Q 2141 1219 2036 1370 
+Q 1931 1522 1773 1673 
+Q 1616 1825 1453 1966 
+Q 1166 1691 1003 1473 
+Q 841 1256 841 1019 
+Q 841 838 994 703 
+Q 1147 569 1488 569 
+Q 1831 569 1986 694 
+Q 2141 819 2141 1075 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fea5" d="M 1804 4100 
+L 2257 3647 
+L 1804 3194 
+L 1351 3647 
+L 1804 4100 
+z
+M 3903 1909 
+L 3903 1372 
+Q 3000 1300 2309 1040 
+Q 1619 781 1230 381 
+Q 841 -19 841 -519 
+Q 841 -1616 2441 -1616 
+Q 2794 -1616 3164 -1545 
+Q 3534 -1475 3856 -1325 
+L 3997 -1847 
+Q 3669 -2000 3248 -2079 
+Q 2828 -2159 2394 -2159 
+Q 1794 -2159 1323 -1989 
+Q 853 -1819 583 -1461 
+Q 313 -1103 313 -547 
+Q 313 -31 573 417 
+Q 834 866 1361 1202 
+Q 1888 1538 2681 1713 
+Q 2425 1819 2176 1919 
+Q 1928 2019 1742 2086 
+Q 1556 2153 1481 2153 
+Q 1291 2153 1141 2054 
+Q 991 1956 847 1775 
+L 763 1669 
+L 284 1903 
+L 331 1978 
+Q 556 2341 836 2528 
+Q 1116 2716 1484 2716 
+Q 1678 2716 1961 2597 
+Q 2244 2478 2575 2322 
+Q 2906 2166 3248 2042 
+Q 3591 1919 3903 1909 
+z
+" transform="scale(0.015625)"/>
+     <path id="Vazirmatn-Regular-fb7c" d="M 2619 -375 
+L 3041 -797 
+L 2619 -1219 
+L 2197 -797 
+L 2619 -375 
+z
+M 1551 -375 
+L 1972 -797 
+L 1551 -1219 
+L 1129 -797 
+L 1551 -375 
+z
+M 2085 -1166 
+L 2507 -1588 
+L 2085 -2010 
+L 1663 -1588 
+L 2085 -1166 
+z
+M -63 569 
+L 469 569 
+Q 834 569 1140 634 
+Q 1447 700 1739 815 
+Q 2031 931 2351 1089 
+Q 2672 1247 3069 1428 
+Q 2847 1509 2609 1604 
+Q 2372 1700 2158 1784 
+Q 1944 1869 1784 1923 
+Q 1625 1978 1559 1978 
+Q 1369 1978 1223 1867 
+Q 1078 1756 956 1600 
+L 872 1494 
+L 394 1728 
+L 441 1803 
+Q 647 2138 920 2339 
+Q 1194 2541 1563 2541 
+Q 1716 2541 1933 2462 
+Q 2150 2384 2406 2267 
+Q 2663 2150 2938 2029 
+Q 3213 1909 3488 1826 
+Q 3763 1744 4013 1734 
+L 4013 1194 
+Q 3813 1172 3502 1048 
+Q 3191 925 2694 663 
+Q 2294 450 1951 301 
+Q 1609 153 1254 76 
+Q 900 0 459 0 
+L -63 0 
+L -63 569 
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Vazirmatn-Regular-2e"/>
+    <use xlink:href="#Vazirmatn-Regular-feaa" transform="translate(27.148438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(80.322266 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(108.837891 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(132.03125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe98" transform="translate(183.886719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fed3" transform="translate(219.726562 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(265.429688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(299.658203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(326.513672 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(360.742188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(386.914062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(431.298828 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(483.154297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(512.646484 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(539.501953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(610.058594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe92" transform="translate(648.681641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe9f" transform="translate(683.349609 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(750.341797 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feca" transform="translate(777.197266 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(837.255859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe9f" transform="translate(894.580078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(961.572266 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(988.427734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(1056.103516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaa" transform="translate(1100.537109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(1153.710938 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1183.203125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee1" transform="translate(1210.058594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1269.53125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fed7" transform="translate(1295.703125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(1341.40625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(1375.634766 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1398.828125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-61b" transform="translate(1425.683594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee9" transform="translate(1452.832031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaa" transform="translate(1499.414062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(1552.587891 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1631.445312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(1658.300781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb8" transform="translate(1723.193359 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(1807.617188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(1838.769531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(1864.941406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(1922.265625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(1950.78125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feca" transform="translate(1977.636719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(2037.695312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(2073.974609 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea0" transform="translate(2131.298828 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(2199.462891 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2230.126953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(2256.982422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(2349.902344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(2407.226562 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2476.708984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(2503.564453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(2529.736328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2559.228516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb1" transform="translate(2586.083984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(2704.248047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(2730.419922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fed8" transform="translate(2766.699219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(2816.455078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(2869.775391 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee6" transform="translate(2896.630859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(2968.75 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(2999.902344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3023.095703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(3049.951172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(3084.179688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3132.03125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(3158.886719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3203.320312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(3230.175781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(3323.095703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(3401.953125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3425.146484 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(3452.001953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(3522.558594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(3556.787109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(3591.015625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3614.208984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(3641.064453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fefb" transform="translate(3675.292969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(3732.128906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(3779.980469 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(3806.835938 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(3854.6875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(3888.916016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(3915.087891 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(3951.367188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(3983.154297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(4019.433594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(4072.753906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f6" transform="translate(4099.609375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(4148.291016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(4175.146484 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee9" transform="translate(4245.703125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(4292.285156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fefc" transform="translate(4336.71875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fecb" transform="translate(4396.972656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(4449.121094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(4500.976562 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(4530.46875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(4557.324219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(4622.216797 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(4651.025391 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(4677.197266 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(4708.349609 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(4742.578125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(4769.433594 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(4862.353516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(4919.677734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(4989.160156 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f3" transform="translate(5016.015625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(5081.884766 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(5140.869141 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5183.056641 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fede" transform="translate(5209.912109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(5276.904297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(5330.224609 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb7" transform="translate(5356.396484 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5435.253906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(5462.109375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5521.09375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(5547.949219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(5618.505859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(5670.361328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb58" transform="translate(5702.148438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5733.300781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-2e" transform="translate(5760.15625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-28" transform="translate(5787.304688 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(5821.484375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(5892.041016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(5926.269531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(5960.498047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(5983.691406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(6010.546875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(6103.466797 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(6160.791016 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6230.273438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(6257.128906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f7" transform="translate(6285.986328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-2f" transform="translate(6344.873047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f7" transform="translate(6386.083984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6444.970703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(6471.826172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(6497.998047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6528.662109 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(6555.517578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f0" transform="translate(6584.375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-2f" transform="translate(6626.5625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f3" transform="translate(6667.773438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6733.642578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-2b" transform="translate(6760.498047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(6814.111328 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(6840.966797 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(6905.859375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(6934.667969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(6960.839844 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(6991.992188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7026.220703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe96" transform="translate(7053.076172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee4" transform="translate(7145.996094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(7203.320312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7272.802734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(7299.658203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(7328.515625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-29" transform="translate(7357.373047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7391.552734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaa" transform="translate(7418.408203 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(7471.582031 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe81" transform="translate(7502.734375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfd" transform="translate(7525.927734 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(7590.820312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7644.140625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f1" transform="translate(7670.996094 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7699.853516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fedd" transform="translate(7726.708984 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(7790.673828 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaa" transform="translate(7835.107422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe9f" transform="translate(7888.28125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(7955.273438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(7982.128906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(8016.357422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea9" transform="translate(8039.550781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaa" transform="translate(8087.402344 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee8" transform="translate(8140.576172 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb3" transform="translate(8174.267578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8253.125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fea5" transform="translate(8279.980469 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(8346.875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee7" transform="translate(8385.498047 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8414.013672 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(8440.869141 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(8475.097656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feec" transform="translate(8501.269531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb7c" transform="translate(8551.074219 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8618.066406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(8644.921875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe91" transform="translate(8671.09375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8700.585938 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feed" transform="translate(8727.441406 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fead" transform="translate(8771.875 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(8806.103516 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfe" transform="translate(8850.585938 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(8881.738281 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(8908.59375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feee" transform="translate(8976.269531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(9020.751953 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(9057.03125 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(9088.818359 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee3" transform="translate(9125.097656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(9178.417969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f6" transform="translate(9205.273438 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f5" transform="translate(9253.955078 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(9312.939453 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(9339.794922 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbff" transform="translate(9378.417969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fecc" transform="translate(9414.697266 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feb4" transform="translate(9471.923828 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe97" transform="translate(9556.347656 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(9587.011719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feaf" transform="translate(9613.867188 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(9648.095703 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(9671.289062 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-6f2" transform="translate(9698.144531 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(9750.488281 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(9777.34375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feea" transform="translate(9847.900391 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee0" transform="translate(9899.755859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb58" transform="translate(9931.542969 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(9962.695312 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fbfc" transform="translate(9989.550781 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8e" transform="translate(10060.107422 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feeb" transform="translate(10086.279297 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fee5" transform="translate(10155.761719 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(10223.4375 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-feae" transform="translate(10246.630859 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fb90" transform="translate(10285.253906 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-20" transform="translate(10329.638672 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-3a" transform="translate(10356.494141 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fed2" transform="translate(10383.642578 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fedf" transform="translate(10476.5625 0)"/>
+    <use xlink:href="#Vazirmatn-Regular-fe8d" transform="translate(10505.371094 0)"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pa38e6046d7">
+   <rect x="170.133031" y="7.2" width="608.872727" height="410.256"/>
+  </clipPath>
+ </defs>
+</svg>
